@@ -1,422 +1,503 @@
 <!DOCTYPE html>
-<html lang="vi">
-
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pokemon Unite Altaria Spawn</title>
+    <title>Pokémon Ranking</title>
     <style>
+        :root {
+            --primary-color: #2196F3;
+            --secondary-color: #f2f2f2;
+            --border-color: #ddd;
+            --text-color: #333;
+        }
+        
         body {
+            font-family: Arial, sans-serif;
             margin: 0;
+            padding: 15px;
+            color: var(--text-color);
+        }
+        
+        h1 {
+            color: var(--text-color);
+            text-align: center;
+            font-size: clamp(1.5rem, 4vw, 2rem);
+            margin: 10px 0;
+        }
+        
+        .switch-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 10px 0;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        
+        .switch {
+            position: relative;
+            display: inline-block;
+            width: 60px;
+            height: 30px;
+        }
+        
+        .switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+        
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #ccc;
+            transition: .4s;
+            border-radius: 30px;
+        }
+        
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 22px;
+            width: 22px;
+            left: 4px;
+            bottom: 4px;
+            background-color: white;
+            transition: .4s;
+            border-radius: 50%;
+        }
+        
+        input:checked + .slider {
+            background-color: var(--primary-color);
+        }
+        
+        input:checked + .slider:before {
+            transform: translateX(26px);
+        }
+        
+        .slider-label {
+            font-weight: bold;
+            font-size: clamp(0.9rem, 3vw, 1rem);
+        }
+        
+        .farming-controls {
+            display: none;
+            text-align: center;
+            margin: 15px 0;
+            width: 100%;
+            max-width: 400px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .farming-controls.show {
+            display: block;
+        }
+        
+        .slider-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 10px;
+        }
+        
+        .slider-value {
+            font-weight: bold;
+            min-width: 30px;
+            text-align: center;
+        }
+        
+        input[type="range"] {
+            width: 200px;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 15px 0;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        
+        th, td {
+            border: 1px solid var(--border-color);
+            padding: 10px 5px;
+            text-align: center;
+        }
+        
+        th {
+            background-color: var(--secondary-color);
+            position: sticky;
+            top: 0;
+            font-size: clamp(0.9rem, 3vw, 1rem);
+        }
+        
+        #rankingTable td:first-child {
+            font-weight: bold;
+            font-size: 1.2em;
+            color: #2c3e50;
+            background: rgba(255, 255, 255, 0.3);
+            border-right: 2px solid #27ae60;
+        }
+        
+        .pokemon-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .pokemon-item {
             display: flex;
             flex-direction: column;
-            justify-content: center;
             align-items: center;
-            height: 100vh;
-            background-color: white;
+            min-width: 60px;
         }
-
-        .container {
-            position: relative;
-            width: 800px;
-            height: 400px;
+        
+        .pokemon-img {
+            width: 50px;
+            height: 50px;
+            object-fit: contain;
+            transition: transform 0.2s;
         }
-
-        .map {
-            width: 100%;
-            height: 100%;
-            position: absolute;
-            z-index: 1;
+        
+        .pokemon-img:hover {
+            transform: scale(1.1);
         }
-
-        .circle,
-        .pentagon {
-            position: absolute;
+        
+        .pokemon-name {
+            font-size: 0.7rem;
+            margin-top: 2px;
+            max-width: 60px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
         }
-
-        .circle {
-            width: 40px;
-            /* Tăng kích thước */
-            height: 40px;
-            /* Tăng kích thước */
-            border-radius: 50%;
-            border: 2px solid white;
+        
+        .rank-row {
+            background: linear-gradient(90deg, rgba(220,245,220,0.7) 0%, rgba(100,200,100,0.7) 100%) !important;
         }
-
-        .pentagon {
-            width: 60px;
-            /* Tăng kích thước */
-            height: 60px;
-            /* Tăng kích thước */
-            clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
-            display: none;
-
-            justify-content: center;
-            align-items: center;
-            text-align: center;
-            font-size: 16px;
-            /* Điều chỉnh kích thước chữ */
-            color: white;
-            /* Màu chữ */
-            line-height: 60px;
-            /* Đảm bảo chữ nằm giữa theo chiều dọc */
-            font-weight: bold;
+        
+        @media (max-width: 600px) {
+            .pokemon-img {
+                width: 40px;
+                height: 40px;
+            }
+            
+            .pokemon-name {
+                font-size: 0.6rem;
+                max-width: 50px;
+            }
+            
+            th, td {
+                padding: 8px 3px;
+            }
+            
+            .pokemon-container {
+                gap: 5px;
+            }
+            
+            #rankingTable td:first-child {
+                font-size: 1em;
+            }
+            
+            input[type="range"] {
+                width: 150px;
+            }
         }
-
-        .faded {
-            opacity: 0.2;
-        }
-
-        .purple {
-            background-color: purple;
-        }
-
-        .orange {
-            background-color: orange;
-        }
-
-        .green {
-            background-color: green;
-        }
-
-        .arc {
-            position: absolute;
-            width: 100%;
-            height: 100%;
-        }
-
-        .title {
-            font-size: 48px;
-            /* Kích thước lớn */
-            font-weight: bold;
-            color: #4CAF50;
-            /* Màu xanh lá cây đẹp */
-            margin-bottom: 20px;
-        }
-
-        .timer {
-            margin-top: 20px;
-            font-size: 48px;
-            /* Kích thước lớn hơn gấp đôi */
-            font-weight: bold;
-            color: #FF5722;
-            /* Màu cam đẹp */
-        }
-
-        .controls button {
-            margin: 5px;
-            padding: 10px;
-            font-size: 16px;
-        }
-
-        .circle:hover::after,
-        .pentagon:hover::after {
-            content: '✖';
-            position: absolute;
-            color: red;
-            font-size: 20px;
-            top: -10px;
-            left: -10px;
-        }
-
-        #action-list {
-            margin-top: 20px;
-            width: 300px;
-            height: 100px;
-            border: 1px solid #ccc;
-            padding: 10px;
-            background-color: #fff;
-            overflow-y: auto;
-            white-space: pre-wrap;
-            /* Đảm bảo xuống dòng đúng cách */
-        }
-
-        .note {
-            font-weight: bold;
-            /* Chữ in đậm */
-            font-size: 16px;
-            /* Cỡ font vừa phải */
-            color: #333;
-            /* Màu chữ (có thể thay đổi tùy ý) */
+        
+        @media (max-width: 400px) {
+            .pokemon-img {
+                width: 35px;
+                height: 35px;
+            }
+            
+            .pokemon-item {
+                min-width: 50px;
+            }
+            
+            .slider-container {
+                flex-direction: column;
+                gap: 5px;
+            }
         }
     </style>
 </head>
-
 <body>
-    <div class="title">Altaria spawn simulation</div>
-    <div class="note">
-        1. Bấm "Bắt đầu" <br>
-        2. Bãi chim là hình ngũ giác, Trụ là hình tròn, Bấm vào đối tượng để ghi nhận sự đập vỡ trụ hoặc đánh sạch bầy chim Altaria.<br>
-        3. Nếu có sai sót trong thao tác, F5 sử dụng lại từ đầu.<br>
-        4. Simulation còn đang hạn chế về mặt hiển thị nếu chim chưa ăn xong (chưa bấm xóa ngũ giác) mà đã đập trụ khiến ngũ giác về trạng thái chờ, tuy nhiên vẫn ra thời điểm và vị trí của lần tiếp theo chính xác.<br>
-        5. Bấm skip nhiều quá so với mức tính toán thời gian sẽ gây ra lỗi hiển thị thời gian số âm. => F5 lại từ đầu 
+    <h1>Pokémon Unite Charge Ranking</h1>
+    
+    <div class="switch-container">
+        <label class="switch">
+            <input type="checkbox" id="timeFormatToggle">
+            <span class="slider"></span>
+        </label>
+        <span class="slider-label" id="timeFormatLabel">Sec</span>
     </div>
-
-    <div class="timer" id="timer">10:00</div>
-    <div class="controls">
-        <button onclick="startTimer()">Bắt đầu</button>
-        <button onclick="skipTime(-30)">+30s</button>
-        <button onclick="skipTime(-15)">+15s</button>
-        <button onclick="skipTime(-2)">+2s</button>
-        <button onclick="skipTime(-1)">+1s</button>
- 
+    
+    <div class="switch-container">
+        <label class="switch">
+            <input type="checkbox" id="energyAmpToggle">
+            <span class="slider"></span>
+        </label>
+        <span class="slider-label" id="energyAmpLabel">Energy Amp: OFF</span>
     </div>
-    <div class="container">
-        <div class="arc">
-            <div id="base-purple-0" data-alias="Trụ trung tâm đội Tím" class="circle purple"
-                style="top: 240px; left: 100px;"></div>
-            <div id="creep-purple-0" data-alias="Altaria trước trụ trung tâm đội Tím" class="pentagon purple faded"
-                style="top: 220px; left: 150px;"></div>
-            <div id="base-purple-1" data-alias="Trụ giữa đội Tím" class="circle purple"
-                style="top: 200px; left: 200px;"></div>
-            <div id="creep-purple-1" data-alias="Altaria trước trụ giữa đội Tím" class="pentagon purple faded"
-                style="top: 180px; left: 250px;"></div>
-            <div id="base-purple-2" data-alias="Trụ ngoài đội Tím" class="circle purple"
-                style="top: 160px; left: 300px;"></div>
-            <div id="creep-center" data-alias="Altaria trung tâm" class="pentagon green faded"
-                style="top: 140px; left: 400px;"></div>
-            <div id="base-orange-2" data-alias="Trụ ngoài đội Cam" class="circle orange"
-                style="top: 160px; left: 500px;"></div>
-            <div id="creep-orange-1" data-alias="Altaria trước trụ giữa đội Cam" class="pentagon orange faded"
-                style="top: 180px; left: 550px;"></div>
-            <div id="base-orange-1" data-alias="Trụ giữa đội Cam" class="circle orange"
-                style="top: 200px; left: 600px;"></div>
-            <div id="creep-orange-0" data-alias="Altaria trước trụ trung tâm đội Cam" class="pentagon orange faded"
-                style="top: 220px; left: 650px;"></div>
-            <div id="base-orange-0" data-alias="Trụ trung tâm đội Cam" class="circle orange"
-                style="top: 240px; left: 700px;"></div>
+    
+    <div class="switch-container">
+        <label class="switch">
+            <input type="checkbox" id="farmingToggle">
+            <span class="slider"></span>
+        </label>
+        <span class="slider-label" id="farmingLabel">Farming: OFF</span>
+    </div>
+    
+    <div class="farming-controls" id="farmingControls">
+        <div class="slider-container">
+            <input type="range" id="farmTimeSlider" min="30" max="60" step="15" value="60">
+            <span class="slider-value" id="sliderValue">60</span>
+            <span>s</span>
         </div>
     </div>
-    <div id="action-list"></div>
-
-
+    
+    <table id="rankingTable">
+        <thead>
+            <tr>
+                <th>Rank</th>
+                <th id="farmColumnHeader" style="display:none;">Farm Efficiency</th>
+                <th>Pokémon</th>
+            </tr>
+        </thead>
+        <tbody id="tableBody">
+            <!-- Table content will be generated by JavaScript -->
+        </tbody>
+    </table>
 
     <script>
-        let timeLeft = 600;
-        let timerInterval;
-        let actions = [];
-        let creeps = []; // Danh sách các đối tượng creep
+        // JSON data with base energy values
+        const pokemonData = {
+            "75000": ["Delphox.png"],
+            "80000": [
+                "Azumarill.png",
+                "Blastoise.png",
+                "Clefable.png",
+                "Comfey.png",
+                "Gardevoir.png",
+                "Goodra.png",
+                "Pikachu.png",
+                "Snorlax.png",
+                "Tinkaton.png",
+                "Wigglytuff.png"
+            ],
+            "90000": [
+                "Absol.png",
+                "Aegislash.png",
+                "Chandelure.png",
+                "Eldegoss.png",
+                "Espeon.png",
+                "Glaceon.png",
+                "Greedent.png",
+                "Greninja.png",
+                "Lapras.png",
+                "Leafeon.png",
+                "Mr. Mime.png",
+                "Sableye.png",
+                "Talonflame.png",
+                "Zoroark.png"
+            ],
+            "100000": [
+                "Armarouge.png",
+                "Blissey.png",
+                "Buzzwole.png",
+                "Ceruledge.png",
+                "Cinderace.png",
+                "Darkrai.png",
+                "Decidueye.png",
+                "Dragonite.png",
+                "Falinks.png",
+                "Garchomp.png",
+                "Gengar.png",
+                "Gyarados.png",
+                "Hoopa.png",
+                "Inteleon.png",
+                "Lucario.png",
+                "Mamoswine.png",
+                "Meowscarada.png",
+                "Metagross.png",
+                "Mimikyu.png",
+                "Miraidon.png",
+                "Ninetales.png",
+                "Psyduck.png",
+                "Scizor.png",
+                "Scyther.png",
+                "Slowbro.png",
+                "Suicune.png",
+                "Sylveon.png",
+                "Trevenant.png",
+                "Tsareena.png",
+                "Tyranitar.png",
+                "Umbreon.png",
+                "Urshifu.png",
+                "Venusaur.png",
+                "Zacian.png",
+                "Zeraora.png"
+            ],
+            "110000": ["Cramorant.png", "Mew.png"],
+            "120000": [
+                "Charizard.png",
+                "Crustle.png",
+                "Dodrio.png",
+                "Duraludon.png",
+                "Ho-Oh.png",
+                "Machamp.png",
+                "Mewtwo X.png",
+                "Mewtwo Y.png",
+                "Rapidash.png"
+            ]
+        };
 
+        // State variables
+        let showAsMinutes = false;
+        let energyAmpEnabled = false;
+        let farmingEnabled = false;
+        let farmTime = 60;
 
-        function updateTimerDisplay() {
-            let minutes = Math.floor(timeLeft / 60);
-            let seconds = timeLeft % 60;
-            document.getElementById('timer').textContent = `${minutes}:${seconds.toString().padStart(2, '0')}`;
+        // Function to convert seconds to MM:SS format
+        function secondsToMinutes(seconds) {
+            const mins = Math.floor(seconds / 60);
+            const secs = seconds % 60;
+            return `${mins}:${secs.toString().padStart(2, '0')}`;
         }
 
-        function startTimer() {
-            if (timerInterval) clearInterval(timerInterval);
-            timerInterval = setInterval(() => {
-                if (timeLeft > 0) {
-                    timeLeft--;
-                    updateTimerDisplay();
-                    checkCreepSpawn();
-                } else {
-                    clearInterval(timerInterval);
+        // Function to calculate background color based on energy value
+        function getRankBackgroundColor(energy) {
+            const minEnergy = 75000;
+            const maxEnergy = 120000;
+            
+            const normalized = (energy - minEnergy) / (maxEnergy - minEnergy);
+            
+            const r = Math.floor(220 - (120 * normalized));
+            const g = Math.floor(245 - (45 * normalized));
+            const b = Math.floor(220 - (120 * normalized));
+            
+            return `rgba(${r},${g},${b},0.7)`;
+        }
+
+        // Function to calculate displayed rank value in seconds
+        function calculateDisplayedRank(energy) {
+            const ampMultiplier = energyAmpEnabled ? 1.06 : 1;
+            return Math.round(energy / (900 * ampMultiplier));
+        }
+
+        // Function to calculate farm efficiency
+        function calculateFarmEfficiency(energy) {
+            const ampMultiplier = energyAmpEnabled ? 1.06 : 1;
+            const numerator = energy - (farmTime * 900 * ampMultiplier);
+            const denominator = 5000 * ampMultiplier;
+            
+            if (denominator === 0) return 0;
+            
+            const efficiency = numerator / denominator;
+            return Math.round(efficiency);
+        }
+
+        // Function to create the table
+        function createRankingTable() {
+            const tableBody = document.getElementById('tableBody');
+            tableBody.innerHTML = '';
+            
+            const sortedKeys = Object.keys(pokemonData).sort((a, b) => parseInt(a) - parseInt(b));
+            
+            sortedKeys.forEach(key => {
+                const row = document.createElement('tr');
+                const baseEnergy = parseInt(key);
+                
+                row.style.background = `linear-gradient(90deg, ${getRankBackgroundColor(baseEnergy)} 0%, rgba(100,200,100,0.7) 100%)`;
+                
+                // Rank cell (affected by Energy Amp)
+                const rankCell = document.createElement('td');
+                const displayedSeconds = calculateDisplayedRank(baseEnergy);
+                rankCell.textContent = showAsMinutes ? secondsToMinutes(displayedSeconds) : displayedSeconds;
+                row.appendChild(rankCell);
+                
+                // Farm efficiency cell (only if farming is enabled)
+                if (farmingEnabled) {
+                    const farmCell = document.createElement('td');
+                    farmCell.textContent = calculateFarmEfficiency(baseEnergy);
+                    row.appendChild(farmCell);
                 }
-            }, 1000);
-        }
-
-        function skipTime(seconds) {
-            timeLeft = Math.max(0, Math.min(600, timeLeft + seconds));
-            updateTimerDisplay();
-            checkCreepSpawn();
-        }
-
-        function returnLastAction() {
-            if (actions.length > 0) {
-                let lastAction = actions.pop();
-
-                // Cập nhật thời gian
-                document.getElementById('timer').textContent = lastAction.time;
-
-                // Kiểm tra và làm cho base visible nếu nó đang bị ẩn
-                let baseElement = document.getElementById(lastAction.base);
-                if (baseElement.style.display === 'none') {
-                    baseElement.style.display = 'block';
-                }
-
-                // Cập nhật hộp văn bản với danh sách hành động
-                document.getElementById('action-list').textContent = actions.map(action => `${action.time} - ${action.base}`).join('\n');
-
-                // Log danh sách hành động (chỉ để kiểm tra)
-                console.log(actions);
-            }
-        }
-
-        document.addEventListener('DOMContentLoaded', function () {
-            document.querySelectorAll('.circle, .pentagon').forEach(element => {
-                element.addEventListener('click', function () {
-                    // Lấy thời gian hiện tại từ đồng hồ
-                    let currentTime = document.getElementById('timer').textContent;
-                    // Kiểm tra nếu là pentagon và có class faded thì không cho click
-                    if (this.classList.contains('pentagon') && this.classList.contains('faded')) {
-                        return; // Không cho phép click
-                    }
-
-                    // Xác thực theo chiều hướng ưu tiên
-                    if (this.id.includes('base-orange-1') || this.id.includes('base-purple-1')) {
-                        // Base giữa, kiểm tra base ngoài
-                        let outerBaseId = this.id.replace('-1', '-2');
-                        if (document.getElementById(outerBaseId).style.display !== 'none') {
-                            return; // Base ngoài chưa bị ẩn, không cho phép click
-                        }
-                    } else if (this.id.includes('base-orange-2') || this.id.includes('base-purple-2')) {
-
-                    } else if (this.id.includes('base-orange-0') || this.id.includes('base-purple-0')) {
-                        // Base trong, không bao giờ biến mất
-                        return;
-                    }
-
-                    // Thêm hành động vào danh sách
-                    actions.push({ time: currentTime, base: this.id, alias: this.dataset.alias });
-
-                    // Ẩn base hoặc pentagon
-                    this.style.display = 'none';
-
-                    // Cập nhật hộp văn bản với danh sách hành động
-                    document.getElementById('action-list').textContent = actions.map(action => `${action.time} - ${action.alias} - đã bị xóa`).join('\n');
-
-                    // Log danh sách hành động (chỉ để kiểm tra)
-                    console.log(actions);
-
-                    // Thiết lập timer cho creep mới nếu là pentagon hoặc base
-                    if (this.classList.contains('pentagon') || this.classList.contains('circle')) {
-
-                        let creepId = `${currentTime}${this.id}`;
-                        let nextSpawnTime = calculateNextSpawnTime(currentTime, this.id);
-                        let nextLocation = findElementId(this.id); // Sử dụng hàm findNextLocation để lấy vị trí từ id của pentagon hoặc base
-
-                        // Kiểm tra xem có creep nào đang đợi để đến thời gian hay không
-                        let existingCreep = creeps.find(creep => creep.nextTimer < currentTime);
-                        if (!existingCreep) {
-                            creeps.push({ id: creepId, nextTimer: nextSpawnTime, nextLocation: nextLocation, previousClear: currentTime, displayed: false });
-                            console.log(`Next spawn time for ${creepId}: ${nextSpawnTime}`);
-                            // Tìm DOM element tại nextLocation và áp dụng class faded
-                            let nextCreepElement = document.getElementById(nextLocation);
-                            if (nextCreepElement) {
-                                nextCreepElement.style.display = 'block';
-                                nextCreepElement.classList.add('faded');
-                            }
-                        }
-                    }
+                
+                // Pokémon images cell
+                const pokemonCell = document.createElement('td');
+                const container = document.createElement('div');
+                container.className = 'pokemon-container';
+                
+                pokemonData[key].forEach(pokemon => {
+                    const pokemonItem = document.createElement('div');
+                    pokemonItem.className = 'pokemon-item';
+                    
+                    const img = document.createElement('img');
+                    img.src = "images/" + pokemon;
+                    img.alt = pokemon.replace('.png', '');
+                    img.className = 'pokemon-img';
+                    img.loading = "lazy";
+                    
+                    const name = document.createElement('div');
+                    name.className = 'pokemon-name';
+                    name.textContent = pokemon.replace('.png', '');
+                    
+                    pokemonItem.appendChild(img);
+                    pokemonItem.appendChild(name);
+                    container.appendChild(pokemonItem);
                 });
+                
+                pokemonCell.appendChild(container);
+                row.appendChild(pokemonCell);
+                tableBody.appendChild(row);
             });
+        }
 
-            // Thêm creep tiêu chuẩn vào danh sách khi trò chơi bắt đầu
-            creeps.push({ id: 'null8:50+center', nextTimer: '8:50', nextLocation: 'creep-center', previousClear: null, displayed: false });
-            // Tìm DOM element tại nextLocation và áp dụng class faded
-            let nextCreepElement = document.getElementById('creep-center');
-            if (nextCreepElement) {
-                nextCreepElement.style.display = 'block';
-                nextCreepElement.classList.add('faded');
-            }
+        // Toggle time format
+        document.getElementById('timeFormatToggle').addEventListener('change', function() {
+            showAsMinutes = this.checked;
+            document.getElementById('timeFormatLabel').textContent = showAsMinutes ? 'Min:Sec' : 'Sec';
+            createRankingTable();
         });
 
-        function calculateNextSpawnTime(currentTime, currentLocation) {
-            // Các mốc tiêu chuẩn
-            const standardTimers = ['8:50', '7:20', '5:50', '4:20', '2:50', '1:20'];
-            const adjustedTimers = {
-                '+25': ['9:15', '7:45', '6:15', '4:45', '3:15', '1:45'],
-                '+10': ['9:00', '7:30', '6:00', '4:30', '3:00', '1:30']
-            };
+        // Toggle Energy Amp
+        document.getElementById('energyAmpToggle').addEventListener('change', function() {
+            energyAmpEnabled = this.checked;
+            document.getElementById('energyAmpLabel').textContent = `Energy Amp: ${energyAmpEnabled ? 'ON' : 'OFF'}`;
+            createRankingTable();
+        });
 
-            // Lấy số lượng base hiện tại của hai bên team bằng cách xét xem số lượng ẩn hiện của đối tượng HTML
-            let purpleBases = Array.from(document.querySelectorAll('.circle.purple')).filter(base => base.style.display !== 'none').length;
-            let orangeBases = Array.from(document.querySelectorAll('.circle.orange')).filter(base => base.style.display !== 'none').length;
+        // Toggle Farming
+        document.getElementById('farmingToggle').addEventListener('change', function() {
+            farmingEnabled = this.checked;
+            document.getElementById('farmingLabel').textContent = `Farming: ${farmingEnabled ? 'ON' : 'OFF'}`;
+            document.getElementById('farmingControls').classList.toggle('show', farmingEnabled);
+            document.getElementById('farmColumnHeader').style.display = farmingEnabled ? '' : 'none';
+            createRankingTable();
+        });
 
-            let nextSpawnTime;
+        // Handle farm time slider
+        document.getElementById('farmTimeSlider').addEventListener('input', function() {
+            farmTime = parseInt(this.value);
+            document.getElementById('sliderValue').textContent = farmTime;
+            createRankingTable();
+        });
 
-            if (purpleBases === orangeBases) {
-                // Nếu cả hai bên có cùng số lượng base nhưng đều mất 1 hoặc đều mất 2 thì mới cộng thêm 10 giây
-                if (purpleBases < 3 && orangeBases < 3) {
-                    nextSpawnTime = getNextAdjustedTime(currentTime, adjustedTimers['+10']);
-                } else {
-                    nextSpawnTime = getNextAdjustedTime(currentTime, standardTimers);
-                }
-            } else {
-                // Nếu một bên mất base, sử dụng mốc thời gian cộng thêm 25 giây
-                nextSpawnTime = getNextAdjustedTime(currentTime, adjustedTimers['+25']);
-            }
-
-            return nextSpawnTime;
-        }
-
-        function getNextAdjustedTime(currentTime, adjustedTimers) {
-            for (let i = 0; i < adjustedTimers.length; i++) {
-                if (currentTime > adjustedTimers[i]) {
-                    return adjustedTimers[i];
-                }
-            }
-            return adjustedTimers[adjustedTimers.length - 1]; // Trả về mốc thời gian cuối cùng nếu không tìm thấy mốc phù hợp
-        }
-
-        function checkCreepSpawn() {
-            let currentTime = document.getElementById('timer').textContent;
-            creeps.forEach(creep => {
-                if (creep.nextTimer === currentTime && !creep.displayed) {
-                    let creepElementId = `${creep.nextLocation}`; // Xác định vị trí của creep
-                    let creepElement = document.getElementById(creepElementId);
-                    if (creepElement) {
-                        creepElement.style.display = 'block';
-                        if (creepElement.classList.contains('faded')) {
-                            creepElement.classList.remove('faded'); // Gỡ bỏ class faded nếu có
-                        }
-                        creep.displayed = true; // Đánh dấu creep đã được hiển thị
-                    }
-                } else if (!creep.displayed) {
-                    let creepElementId = `${creep.nextLocation}`; // Xác định vị trí của creep
-                    let creepElement = document.getElementById(creepElementId);
-                    if (creepElement) {
-                        let timeDifference = calculateTimeDifference(currentTime, creep.nextTimer);
-                        creepElement.textContent = timeDifference; // Viết text vào DOM 
-                        creepElement.classList.add('faded'); // Áp dụng class faded
-                    }
-                }
-            });
-        }
-
-        function calculateTimeDifference(currentTime, nextTime) {
-            const [currentMinutes, currentSeconds] = currentTime.split(':').map(Number);
-            const [nextMinutes, nextSeconds] = nextTime.split(':').map(Number);
-
-            let totalCurrentSeconds = currentMinutes * 60 + currentSeconds;
-            let totalNextSeconds = nextMinutes * 60 + nextSeconds;
-
-            let difference = totalCurrentSeconds - totalNextSeconds;
-            let minutes = Math.floor(difference / 60);
-            let seconds = difference % 60;
-
-            return `${minutes}:${seconds.toString().padStart(2, '0')}`;
-        }
-        function findNextLocation(id) {
-            // Lấy số lượng base hiện tại của hai bên team bằng cách xét xem số lượng ẩn hiện của đối tượng HTML
-            let purpleBases = Array.from(document.querySelectorAll('.circle.purple')).filter(base => base.style.display !== 'none').length;
-            let orangeBases = Array.from(document.querySelectorAll('.circle.orange')).filter(base => base.style.display !== 'none').length;
-            if (purpleBases === orangeBases) {
-                return 'center';
-            } else {
-
-            }
-        }
-
-
-        function findElementId(value) {
-            let purpleBases = Array.from(document.querySelectorAll('.circle.purple')).filter(base => base.style.display !== 'none').length;
-            let orangeBases = Array.from(document.querySelectorAll('.circle.orange')).filter(base => base.style.display !== 'none').length;
-            if (purpleBases === orangeBases) {
-                return 'creep-center';
-            } else if (orangeBases < purpleBases) {
-                let orangeBases = Array.from(document.querySelectorAll('.circle.orange')).filter(base => base.style.display !== 'none').length;
-                return 'creep-orange-' + (orangeBases - 1);
-            } else  {
-                let purpleBases = Array.from(document.querySelectorAll('.circle.purple')).filter(base => base.style.display !== 'none').length;
-                return 'creep-purple-' + (purpleBases - 1);
-            } 
-        }
-
-        updateTimerDisplay();
+        // Initialize the page
+        window.onload = function() {
+            document.getElementById('timeFormatToggle').checked = showAsMinutes;
+            document.getElementById('energyAmpToggle').checked = energyAmpEnabled;
+            document.getElementById('farmingToggle').checked = farmingEnabled;
+            createRankingTable();
+        };
     </script>
 </body>
-
 </html>
