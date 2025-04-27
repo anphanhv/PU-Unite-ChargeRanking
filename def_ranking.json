@@ -1,7 +1,7 @@
 [
   {
     "Name": "Zoroark",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 1,
     "HP": 3030,
@@ -11,7 +11,7 @@
   },
   {
     "Name": "Zeraora",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 1,
     "HP": 3002,
@@ -21,7 +21,7 @@
   },
   {
     "Name": "Zoroark",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 2,
     "HP": 3100,
@@ -31,7 +31,7 @@
   },
   {
     "Name": "Zoroark",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 3,
     "HP": 3181,
@@ -41,7 +41,7 @@
   },
   {
     "Name": "Zoroark",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 4,
     "HP": 3274,
@@ -51,7 +51,7 @@
   },
   {
     "Name": "Zoroark",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 5,
     "HP": 3698,
@@ -61,7 +61,7 @@
   },
   {
     "Name": "Zoroark",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 6,
     "HP": 3821,
@@ -71,7 +71,7 @@
   },
   {
     "Name": "Zoroark",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 7,
     "HP": 3962,
@@ -81,7 +81,7 @@
   },
   {
     "Name": "Zoroark",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 8,
     "HP": 4125,
@@ -91,7 +91,7 @@
   },
   {
     "Name": "Zoroark",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 9,
     "HP": 4312,
@@ -101,7 +101,7 @@
   },
   {
     "Name": "Zoroark",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 10,
     "HP": 4528,
@@ -111,7 +111,7 @@
   },
   {
     "Name": "Zoroark",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 11,
     "HP": 4776,
@@ -121,7 +121,7 @@
   },
   {
     "Name": "Zoroark",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 12,
     "HP": 5061,
@@ -131,7 +131,7 @@
   },
   {
     "Name": "Zoroark",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 13,
     "HP": 5389,
@@ -141,7 +141,7 @@
   },
   {
     "Name": "Zoroark",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 14,
     "HP": 5766,
@@ -151,7 +151,7 @@
   },
   {
     "Name": "Zoroark",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 15,
     "HP": 6200,
@@ -161,7 +161,7 @@
   },
   {
     "Name": "Zeraora",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 2,
     "HP": 3120,
@@ -171,7 +171,7 @@
   },
   {
     "Name": "Zeraora",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 3,
     "HP": 3250,
@@ -181,7 +181,7 @@
   },
   {
     "Name": "Zeraora",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 4,
     "HP": 3393,
@@ -191,7 +191,7 @@
   },
   {
     "Name": "Zeraora",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 5,
     "HP": 3550,
@@ -201,7 +201,7 @@
   },
   {
     "Name": "Zeraora",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 6,
     "HP": 3723,
@@ -211,7 +211,7 @@
   },
   {
     "Name": "Zeraora",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 7,
     "HP": 3913,
@@ -221,7 +221,7 @@
   },
   {
     "Name": "Zeraora",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 8,
     "HP": 4122,
@@ -231,7 +231,7 @@
   },
   {
     "Name": "Zeraora",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 9,
     "HP": 4353,
@@ -241,7 +241,7 @@
   },
   {
     "Name": "Zeraora",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 10,
     "HP": 4607,
@@ -251,7 +251,7 @@
   },
   {
     "Name": "Zeraora",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 11,
     "HP": 4887,
@@ -261,7 +261,7 @@
   },
   {
     "Name": "Zeraora",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 12,
     "HP": 5195,
@@ -271,7 +271,7 @@
   },
   {
     "Name": "Zeraora",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 13,
     "HP": 5534,
@@ -281,7 +281,7 @@
   },
   {
     "Name": "Zeraora",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 14,
     "HP": 5908,
@@ -291,7 +291,7 @@
   },
   {
     "Name": "Zeraora",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 15,
     "HP": 6319,
@@ -301,7 +301,7 @@
   },
   {
     "Name": "Zacian",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 1,
     "HP": 3600,
@@ -311,7 +311,7 @@
   },
   {
     "Name": "Zacian",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 2,
     "HP": 3757,
@@ -321,7 +321,7 @@
   },
   {
     "Name": "Zacian",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 3,
     "HP": 3929,
@@ -331,7 +331,7 @@
   },
   {
     "Name": "Zacian",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 4,
     "HP": 4118,
@@ -341,7 +341,7 @@
   },
   {
     "Name": "Zacian",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 5,
     "HP": 4326,
@@ -351,7 +351,7 @@
   },
   {
     "Name": "Zacian",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 6,
     "HP": 4555,
@@ -361,7 +361,7 @@
   },
   {
     "Name": "Zacian",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 7,
     "HP": 4807,
@@ -371,7 +371,7 @@
   },
   {
     "Name": "Zacian",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 8,
     "HP": 5085,
@@ -381,7 +381,7 @@
   },
   {
     "Name": "Zacian",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 9,
     "HP": 5391,
@@ -391,7 +391,7 @@
   },
   {
     "Name": "Zacian",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 10,
     "HP": 5728,
@@ -401,7 +401,7 @@
   },
   {
     "Name": "Zacian",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 11,
     "HP": 6100,
@@ -411,7 +411,7 @@
   },
   {
     "Name": "Zacian",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 12,
     "HP": 6509,
@@ -421,7 +421,7 @@
   },
   {
     "Name": "Zacian",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 13,
     "HP": 6959,
@@ -431,7 +431,7 @@
   },
   {
     "Name": "Zacian",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 14,
     "HP": 7455,
@@ -441,7 +441,7 @@
   },
   {
     "Name": "Zacian",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 15,
     "HP": 8000,
@@ -451,7 +451,7 @@
   },
   {
     "Name": "Wigglytuff",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 1,
     "HP": 3278,
@@ -461,7 +461,7 @@
   },
   {
     "Name": "Wigglytuff",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 2,
     "HP": 3415,
@@ -471,7 +471,7 @@
   },
   {
     "Name": "Wigglytuff",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 3,
     "HP": 3573,
@@ -481,7 +481,7 @@
   },
   {
     "Name": "Wigglytuff",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 4,
     "HP": 4372,
@@ -491,7 +491,7 @@
   },
   {
     "Name": "Wigglytuff",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 5,
     "HP": 4581,
@@ -501,7 +501,7 @@
   },
   {
     "Name": "Wigglytuff",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 6,
     "HP": 4821,
@@ -511,7 +511,7 @@
   },
   {
     "Name": "Wigglytuff",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 7,
     "HP": 5097,
@@ -521,7 +521,7 @@
   },
   {
     "Name": "Wigglytuff",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 8,
     "HP": 5414,
@@ -531,7 +531,7 @@
   },
   {
     "Name": "Wigglytuff",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 9,
     "HP": 5779,
@@ -541,7 +541,7 @@
   },
   {
     "Name": "Wigglytuff",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 10,
     "HP": 6199,
@@ -551,7 +551,7 @@
   },
   {
     "Name": "Wigglytuff",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 11,
     "HP": 6681,
@@ -561,7 +561,7 @@
   },
   {
     "Name": "Wigglytuff",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 12,
     "HP": 7236,
@@ -571,7 +571,7 @@
   },
   {
     "Name": "Wigglytuff",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 13,
     "HP": 7874,
@@ -581,7 +581,7 @@
   },
   {
     "Name": "Wigglytuff",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 14,
     "HP": 8608,
@@ -591,7 +591,7 @@
   },
   {
     "Name": "Wigglytuff",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 15,
     "HP": 9452,
@@ -601,7 +601,7 @@
   },
   {
     "Name": "Venusaur",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 1,
     "HP": 3300,
@@ -611,7 +611,7 @@
   },
   {
     "Name": "Venusaur",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 2,
     "HP": 3346,
@@ -621,7 +621,7 @@
   },
   {
     "Name": "Venusaur",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 3,
     "HP": 3401,
@@ -631,7 +631,7 @@
   },
   {
     "Name": "Venusaur",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 4,
     "HP": 3467,
@@ -641,7 +641,7 @@
   },
   {
     "Name": "Venusaur",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 5,
     "HP": 3706,
@@ -651,7 +651,7 @@
   },
   {
     "Name": "Venusaur",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 6,
     "HP": 3801,
@@ -661,7 +661,7 @@
   },
   {
     "Name": "Venusaur",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 7,
     "HP": 4235,
@@ -671,7 +671,7 @@
   },
   {
     "Name": "Venusaur",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 8,
     "HP": 4372,
@@ -681,7 +681,7 @@
   },
   {
     "Name": "Venusaur",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 9,
     "HP": 4537,
@@ -691,7 +691,7 @@
   },
   {
     "Name": "Venusaur",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 10,
     "HP": 4735,
@@ -701,7 +701,7 @@
   },
   {
     "Name": "Venusaur",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 11,
     "HP": 4972,
@@ -711,7 +711,7 @@
   },
   {
     "Name": "Venusaur",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 12,
     "HP": 5257,
@@ -721,7 +721,7 @@
   },
   {
     "Name": "Venusaur",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 13,
     "HP": 5598,
@@ -731,7 +731,7 @@
   },
   {
     "Name": "Venusaur",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 14,
     "HP": 6008,
@@ -741,7 +741,7 @@
   },
   {
     "Name": "Venusaur",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 15,
     "HP": 6500,
@@ -751,7 +751,7 @@
   },
   {
     "Name": "Urshifu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 1,
     "HP": 3200,
@@ -761,7 +761,7 @@
   },
   {
     "Name": "Urshifu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 2,
     "HP": 3304,
@@ -771,7 +771,7 @@
   },
   {
     "Name": "Urshifu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 3,
     "HP": 3424,
@@ -781,7 +781,7 @@
   },
   {
     "Name": "Urshifu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 4,
     "HP": 3562,
@@ -791,7 +791,7 @@
   },
   {
     "Name": "Urshifu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 5,
     "HP": 4191,
@@ -801,7 +801,7 @@
   },
   {
     "Name": "Urshifu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 6,
     "HP": 4373,
@@ -811,7 +811,7 @@
   },
   {
     "Name": "Urshifu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 7,
     "HP": 4583,
@@ -821,7 +821,7 @@
   },
   {
     "Name": "Urshifu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 8,
     "HP": 4824,
@@ -831,7 +831,7 @@
   },
   {
     "Name": "Urshifu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 9,
     "HP": 5102,
@@ -841,7 +841,7 @@
   },
   {
     "Name": "Urshifu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 10,
     "HP": 5421,
@@ -851,7 +851,7 @@
   },
   {
     "Name": "Urshifu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 11,
     "HP": 5789,
@@ -861,7 +861,7 @@
   },
   {
     "Name": "Urshifu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 12,
     "HP": 6212,
@@ -871,7 +871,7 @@
   },
   {
     "Name": "Urshifu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 13,
     "HP": 6698,
@@ -881,7 +881,7 @@
   },
   {
     "Name": "Urshifu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 14,
     "HP": 7257,
@@ -891,7 +891,7 @@
   },
   {
     "Name": "Urshifu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 15,
     "HP": 7900,
@@ -901,7 +901,7 @@
   },
   {
     "Name": "Umbreon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 1,
     "HP": 3300,
@@ -911,7 +911,7 @@
   },
   {
     "Name": "Umbreon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 2,
     "HP": 3439,
@@ -921,7 +921,7 @@
   },
   {
     "Name": "Umbreon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 3,
     "HP": 3598,
@@ -931,7 +931,7 @@
   },
   {
     "Name": "Umbreon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 4,
     "HP": 4407,
@@ -941,7 +941,7 @@
   },
   {
     "Name": "Umbreon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 5,
     "HP": 4618,
@@ -951,7 +951,7 @@
   },
   {
     "Name": "Umbreon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 6,
     "HP": 4861,
@@ -961,7 +961,7 @@
   },
   {
     "Name": "Umbreon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 7,
     "HP": 5140,
@@ -971,7 +971,7 @@
   },
   {
     "Name": "Umbreon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 8,
     "HP": 5461,
@@ -981,7 +981,7 @@
   },
   {
     "Name": "Umbreon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 9,
     "HP": 5830,
@@ -991,7 +991,7 @@
   },
   {
     "Name": "Umbreon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 10,
     "HP": 6255,
@@ -1001,7 +1001,7 @@
   },
   {
     "Name": "Umbreon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 11,
     "HP": 6744,
@@ -1011,7 +1011,7 @@
   },
   {
     "Name": "Umbreon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 12,
     "HP": 7306,
@@ -1021,7 +1021,7 @@
   },
   {
     "Name": "Umbreon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 13,
     "HP": 7953,
@@ -1031,7 +1031,7 @@
   },
   {
     "Name": "Umbreon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 14,
     "HP": 8696,
@@ -1041,7 +1041,7 @@
   },
   {
     "Name": "Umbreon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 15,
     "HP": 9550,
@@ -1051,7 +1051,7 @@
   },
   {
     "Name": "Tyranitar",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 1,
     "HP": 3300,
@@ -1061,7 +1061,7 @@
   },
   {
     "Name": "Tyranitar",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 2,
     "HP": 3381,
@@ -1071,7 +1071,7 @@
   },
   {
     "Name": "Tyranitar",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 3,
     "HP": 3478,
@@ -1081,7 +1081,7 @@
   },
   {
     "Name": "Tyranitar",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 4,
     "HP": 3595,
@@ -1091,7 +1091,7 @@
   },
   {
     "Name": "Tyranitar",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 5,
     "HP": 4018,
@@ -1101,7 +1101,7 @@
   },
   {
     "Name": "Tyranitar",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 6,
     "HP": 4186,
@@ -1111,7 +1111,7 @@
   },
   {
     "Name": "Tyranitar",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 7,
     "HP": 4388,
@@ -1121,7 +1121,7 @@
   },
   {
     "Name": "Tyranitar",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 8,
     "HP": 4630,
@@ -1131,7 +1131,7 @@
   },
   {
     "Name": "Tyranitar",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 9,
     "HP": 5486,
@@ -1141,7 +1141,7 @@
   },
   {
     "Name": "Tyranitar",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 10,
     "HP": 5835,
@@ -1151,7 +1151,7 @@
   },
   {
     "Name": "Tyranitar",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 11,
     "HP": 6254,
@@ -1161,7 +1161,7 @@
   },
   {
     "Name": "Tyranitar",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 12,
     "HP": 6756,
@@ -1171,7 +1171,7 @@
   },
   {
     "Name": "Tyranitar",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 13,
     "HP": 7359,
@@ -1181,7 +1181,7 @@
   },
   {
     "Name": "Tyranitar",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 14,
     "HP": 8082,
@@ -1191,7 +1191,7 @@
   },
   {
     "Name": "Tyranitar",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 15,
     "HP": 8950,
@@ -1201,7 +1201,7 @@
   },
   {
     "Name": "Tsareena",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 1,
     "HP": 3100,
@@ -1211,7 +1211,7 @@
   },
   {
     "Name": "Tsareena",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 2,
     "HP": 3160,
@@ -1221,7 +1221,7 @@
   },
   {
     "Name": "Tsareena",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 3,
     "HP": 3232,
@@ -1231,7 +1231,7 @@
   },
   {
     "Name": "Tsareena",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 4,
     "HP": 3529,
@@ -1241,7 +1241,7 @@
   },
   {
     "Name": "Tsareena",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 5,
     "HP": 3633,
@@ -1251,7 +1251,7 @@
   },
   {
     "Name": "Tsareena",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 6,
     "HP": 4178,
@@ -1261,7 +1261,7 @@
   },
   {
     "Name": "Tsareena",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 7,
     "HP": 4328,
@@ -1271,7 +1271,7 @@
   },
   {
     "Name": "Tsareena",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 8,
     "HP": 4508,
@@ -1281,7 +1281,7 @@
   },
   {
     "Name": "Tsareena",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 9,
     "HP": 4724,
@@ -1291,7 +1291,7 @@
   },
   {
     "Name": "Tsareena",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 10,
     "HP": 4983,
@@ -1301,7 +1301,7 @@
   },
   {
     "Name": "Tsareena",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 11,
     "HP": 5294,
@@ -1311,7 +1311,7 @@
   },
   {
     "Name": "Tsareena",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 12,
     "HP": 5667,
@@ -1321,7 +1321,7 @@
   },
   {
     "Name": "Tsareena",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 13,
     "HP": 6115,
@@ -1331,7 +1331,7 @@
   },
   {
     "Name": "Tsareena",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 14,
     "HP": 6653,
@@ -1341,7 +1341,7 @@
   },
   {
     "Name": "Tsareena",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 15,
     "HP": 7298,
@@ -1351,7 +1351,7 @@
   },
   {
     "Name": "Trevenant",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 1,
     "HP": 3250,
@@ -1361,7 +1361,7 @@
   },
   {
     "Name": "Trevenant",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 2,
     "HP": 3391,
@@ -1371,7 +1371,7 @@
   },
   {
     "Name": "Trevenant",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 3,
     "HP": 3553,
@@ -1381,7 +1381,7 @@
   },
   {
     "Name": "Trevenant",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 4,
     "HP": 3739,
@@ -1391,7 +1391,7 @@
   },
   {
     "Name": "Trevenant",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 5,
     "HP": 4589,
@@ -1401,7 +1401,7 @@
   },
   {
     "Name": "Trevenant",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 6,
     "HP": 4835,
@@ -1411,7 +1411,7 @@
   },
   {
     "Name": "Trevenant",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 7,
     "HP": 5118,
@@ -1421,7 +1421,7 @@
   },
   {
     "Name": "Trevenant",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 8,
     "HP": 5444,
@@ -1431,7 +1431,7 @@
   },
   {
     "Name": "Trevenant",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 9,
     "HP": 5819,
@@ -1441,7 +1441,7 @@
   },
   {
     "Name": "Trevenant",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 10,
     "HP": 6251,
@@ -1451,7 +1451,7 @@
   },
   {
     "Name": "Trevenant",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 11,
     "HP": 6748,
@@ -1461,7 +1461,7 @@
   },
   {
     "Name": "Trevenant",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 12,
     "HP": 7319,
@@ -1471,7 +1471,7 @@
   },
   {
     "Name": "Trevenant",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 13,
     "HP": 7976,
@@ -1481,7 +1481,7 @@
   },
   {
     "Name": "Trevenant",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 14,
     "HP": 8731,
@@ -1491,7 +1491,7 @@
   },
   {
     "Name": "Trevenant",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 15,
     "HP": 9599,
@@ -1501,7 +1501,7 @@
   },
   {
     "Name": "Tinkaton",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 1,
     "HP": 3250,
@@ -1511,7 +1511,7 @@
   },
   {
     "Name": "Tinkaton",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 2,
     "HP": 3324,
@@ -1521,7 +1521,7 @@
   },
   {
     "Name": "Tinkaton",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 3,
     "HP": 3412,
@@ -1531,7 +1531,7 @@
   },
   {
     "Name": "Tinkaton",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 4,
     "HP": 3518,
@@ -1541,7 +1541,7 @@
   },
   {
     "Name": "Tinkaton",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 5,
     "HP": 3903,
@@ -1551,7 +1551,7 @@
   },
   {
     "Name": "Tinkaton",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 6,
     "HP": 4057,
@@ -1561,7 +1561,7 @@
   },
   {
     "Name": "Tinkaton",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 7,
     "HP": 4756,
@@ -1571,7 +1571,7 @@
   },
   {
     "Name": "Tinkaton",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 8,
     "HP": 4977,
@@ -1581,7 +1581,7 @@
   },
   {
     "Name": "Tinkaton",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 9,
     "HP": 5242,
@@ -1591,7 +1591,7 @@
   },
   {
     "Name": "Tinkaton",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 10,
     "HP": 5560,
@@ -1601,7 +1601,7 @@
   },
   {
     "Name": "Tinkaton",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 11,
     "HP": 5942,
@@ -1611,7 +1611,7 @@
   },
   {
     "Name": "Tinkaton",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 12,
     "HP": 6400,
@@ -1621,7 +1621,7 @@
   },
   {
     "Name": "Tinkaton",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 13,
     "HP": 6950,
@@ -1631,7 +1631,7 @@
   },
   {
     "Name": "Tinkaton",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 14,
     "HP": 7609,
@@ -1641,7 +1641,7 @@
   },
   {
     "Name": "Tinkaton",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 15,
     "HP": 8400,
@@ -1651,7 +1651,7 @@
   },
   {
     "Name": "Talonflame",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 1,
     "HP": 3024,
@@ -1661,7 +1661,7 @@
   },
   {
     "Name": "Talonflame",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 2,
     "HP": 3072,
@@ -1671,7 +1671,7 @@
   },
   {
     "Name": "Talonflame",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 3,
     "HP": 3130,
@@ -1681,7 +1681,7 @@
   },
   {
     "Name": "Talonflame",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 4,
     "HP": 3200,
@@ -1691,7 +1691,7 @@
   },
   {
     "Name": "Talonflame",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 5,
     "HP": 3453,
@@ -1701,7 +1701,7 @@
   },
   {
     "Name": "Talonflame",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 6,
     "HP": 3554,
@@ -1711,7 +1711,7 @@
   },
   {
     "Name": "Talonflame",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 7,
     "HP": 4012,
@@ -1721,7 +1721,7 @@
   },
   {
     "Name": "Talonflame",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 8,
     "HP": 4157,
@@ -1731,7 +1731,7 @@
   },
   {
     "Name": "Talonflame",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 9,
     "HP": 4331,
@@ -1741,7 +1741,7 @@
   },
   {
     "Name": "Talonflame",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 10,
     "HP": 4539,
@@ -1751,7 +1751,7 @@
   },
   {
     "Name": "Talonflame",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 11,
     "HP": 4789,
@@ -1761,7 +1761,7 @@
   },
   {
     "Name": "Talonflame",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 12,
     "HP": 5089,
@@ -1771,7 +1771,7 @@
   },
   {
     "Name": "Talonflame",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 13,
     "HP": 5449,
@@ -1781,7 +1781,7 @@
   },
   {
     "Name": "Talonflame",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 14,
     "HP": 5881,
@@ -1791,7 +1791,7 @@
   },
   {
     "Name": "Talonflame",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 15,
     "HP": 6400,
@@ -1801,7 +1801,7 @@
   },
   {
     "Name": "Sylveon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 1,
     "HP": 3406,
@@ -1811,7 +1811,7 @@
   },
   {
     "Name": "Sylveon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 2,
     "HP": 3489,
@@ -1821,7 +1821,7 @@
   },
   {
     "Name": "Sylveon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 3,
     "HP": 3584,
@@ -1831,7 +1831,7 @@
   },
   {
     "Name": "Sylveon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 4,
     "HP": 4068,
@@ -1841,7 +1841,7 @@
   },
   {
     "Name": "Sylveon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 5,
     "HP": 4195,
@@ -1851,7 +1851,7 @@
   },
   {
     "Name": "Sylveon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 6,
     "HP": 4340,
@@ -1861,7 +1861,7 @@
   },
   {
     "Name": "Sylveon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 7,
     "HP": 4507,
@@ -1871,7 +1871,7 @@
   },
   {
     "Name": "Sylveon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 8,
     "HP": 4699,
@@ -1881,7 +1881,7 @@
   },
   {
     "Name": "Sylveon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 9,
     "HP": 4920,
@@ -1891,7 +1891,7 @@
   },
   {
     "Name": "Sylveon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 10,
     "HP": 5174,
@@ -1901,7 +1901,7 @@
   },
   {
     "Name": "Sylveon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 11,
     "HP": 5467,
@@ -1911,7 +1911,7 @@
   },
   {
     "Name": "Sylveon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 12,
     "HP": 5804,
@@ -1921,7 +1921,7 @@
   },
   {
     "Name": "Sylveon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 13,
     "HP": 6191,
@@ -1931,7 +1931,7 @@
   },
   {
     "Name": "Sylveon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 14,
     "HP": 6636,
@@ -1941,7 +1941,7 @@
   },
   {
     "Name": "Sylveon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 15,
     "HP": 7148,
@@ -1951,7 +1951,7 @@
   },
   {
     "Name": "Suicune",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "All-Rounder",
     "Level": 1,
     "HP": 3250,
@@ -1961,7 +1961,7 @@
   },
   {
     "Name": "Suicune",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "All-Rounder",
     "Level": 2,
     "HP": 3398,
@@ -1971,7 +1971,7 @@
   },
   {
     "Name": "Suicune",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "All-Rounder",
     "Level": 3,
     "HP": 3561,
@@ -1981,7 +1981,7 @@
   },
   {
     "Name": "Suicune",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "All-Rounder",
     "Level": 4,
     "HP": 3740,
@@ -1991,7 +1991,7 @@
   },
   {
     "Name": "Suicune",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "All-Rounder",
     "Level": 5,
     "HP": 3936,
@@ -2001,7 +2001,7 @@
   },
   {
     "Name": "Suicune",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "All-Rounder",
     "Level": 6,
     "HP": 4152,
@@ -2011,7 +2011,7 @@
   },
   {
     "Name": "Suicune",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "All-Rounder",
     "Level": 7,
     "HP": 4390,
@@ -2021,7 +2021,7 @@
   },
   {
     "Name": "Suicune",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "All-Rounder",
     "Level": 8,
     "HP": 4652,
@@ -2031,7 +2031,7 @@
   },
   {
     "Name": "Suicune",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "All-Rounder",
     "Level": 9,
     "HP": 4941,
@@ -2041,7 +2041,7 @@
   },
   {
     "Name": "Suicune",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "All-Rounder",
     "Level": 10,
     "HP": 5259,
@@ -2051,7 +2051,7 @@
   },
   {
     "Name": "Suicune",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "All-Rounder",
     "Level": 11,
     "HP": 5610,
@@ -2061,7 +2061,7 @@
   },
   {
     "Name": "Suicune",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "All-Rounder",
     "Level": 12,
     "HP": 5995,
@@ -2071,7 +2071,7 @@
   },
   {
     "Name": "Suicune",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "All-Rounder",
     "Level": 13,
     "HP": 6419,
@@ -2081,7 +2081,7 @@
   },
   {
     "Name": "Suicune",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "All-Rounder",
     "Level": 14,
     "HP": 6886,
@@ -2091,7 +2091,7 @@
   },
   {
     "Name": "Suicune",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "All-Rounder",
     "Level": 15,
     "HP": 7400,
@@ -2101,7 +2101,7 @@
   },
   {
     "Name": "Snorlax",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 1,
     "HP": 3300,
@@ -2111,7 +2111,7 @@
   },
   {
     "Name": "Snorlax",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 2,
     "HP": 3553,
@@ -2121,7 +2121,7 @@
   },
   {
     "Name": "Snorlax",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 3,
     "HP": 3831,
@@ -2131,7 +2131,7 @@
   },
   {
     "Name": "Snorlax",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 4,
     "HP": 4137,
@@ -2141,7 +2141,7 @@
   },
   {
     "Name": "Snorlax",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 5,
     "HP": 4472,
@@ -2151,7 +2151,7 @@
   },
   {
     "Name": "Snorlax",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 6,
     "HP": 4842,
@@ -2161,7 +2161,7 @@
   },
   {
     "Name": "Snorlax",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 7,
     "HP": 5249,
@@ -2171,7 +2171,7 @@
   },
   {
     "Name": "Snorlax",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 8,
     "HP": 5697,
@@ -2181,7 +2181,7 @@
   },
   {
     "Name": "Snorlax",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 9,
     "HP": 6191,
@@ -2191,7 +2191,7 @@
   },
   {
     "Name": "Snorlax",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 10,
     "HP": 6735,
@@ -2201,7 +2201,7 @@
   },
   {
     "Name": "Snorlax",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 11,
     "HP": 7335,
@@ -2211,7 +2211,7 @@
   },
   {
     "Name": "Snorlax",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 12,
     "HP": 7994,
@@ -2221,7 +2221,7 @@
   },
   {
     "Name": "Snorlax",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 13,
     "HP": 8720,
@@ -2231,7 +2231,7 @@
   },
   {
     "Name": "Snorlax",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 14,
     "HP": 9520,
@@ -2241,7 +2241,7 @@
   },
   {
     "Name": "Snorlax",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 15,
     "HP": 10400,
@@ -2251,7 +2251,7 @@
   },
   {
     "Name": "Slowbro",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 1,
     "HP": 3225,
@@ -2261,7 +2261,7 @@
   },
   {
     "Name": "Slowbro",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 2,
     "HP": 3351,
@@ -2271,7 +2271,7 @@
   },
   {
     "Name": "Slowbro",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 3,
     "HP": 3496,
@@ -2281,7 +2281,7 @@
   },
   {
     "Name": "Slowbro",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 4,
     "HP": 4230,
@@ -2291,7 +2291,7 @@
   },
   {
     "Name": "Slowbro",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 5,
     "HP": 4422,
@@ -2301,7 +2301,7 @@
   },
   {
     "Name": "Slowbro",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 6,
     "HP": 4642,
@@ -2311,7 +2311,7 @@
   },
   {
     "Name": "Slowbro",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 7,
     "HP": 4895,
@@ -2321,7 +2321,7 @@
   },
   {
     "Name": "Slowbro",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 8,
     "HP": 5186,
@@ -2331,7 +2331,7 @@
   },
   {
     "Name": "Slowbro",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 9,
     "HP": 5521,
@@ -2341,7 +2341,7 @@
   },
   {
     "Name": "Slowbro",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 10,
     "HP": 5907,
@@ -2351,7 +2351,7 @@
   },
   {
     "Name": "Slowbro",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 11,
     "HP": 6351,
@@ -2361,7 +2361,7 @@
   },
   {
     "Name": "Slowbro",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 12,
     "HP": 6862,
@@ -2371,7 +2371,7 @@
   },
   {
     "Name": "Slowbro",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 13,
     "HP": 7449,
@@ -2381,7 +2381,7 @@
   },
   {
     "Name": "Slowbro",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 14,
     "HP": 8124,
@@ -2391,7 +2391,7 @@
   },
   {
     "Name": "Slowbro",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 15,
     "HP": 8900,
@@ -2401,7 +2401,7 @@
   },
   {
     "Name": "Scizor",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 1,
     "HP": 3100,
@@ -2411,7 +2411,7 @@
   },
   {
     "Name": "Scizor",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 2,
     "HP": 3174,
@@ -2421,7 +2421,7 @@
   },
   {
     "Name": "Scizor",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 3,
     "HP": 3259,
@@ -2431,7 +2431,7 @@
   },
   {
     "Name": "Scizor",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 4,
     "HP": 3357,
@@ -2441,7 +2441,7 @@
   },
   {
     "Name": "Scizor",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 5,
     "HP": 3805,
@@ -2451,7 +2451,7 @@
   },
   {
     "Name": "Scizor",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 6,
     "HP": 3935,
@@ -2461,7 +2461,7 @@
   },
   {
     "Name": "Scizor",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 7,
     "HP": 4084,
@@ -2471,7 +2471,7 @@
   },
   {
     "Name": "Scizor",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 8,
     "HP": 4256,
@@ -2481,7 +2481,7 @@
   },
   {
     "Name": "Scizor",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 9,
     "HP": 4454,
@@ -2491,7 +2491,7 @@
   },
   {
     "Name": "Scizor",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 10,
     "HP": 4682,
@@ -2501,7 +2501,7 @@
   },
   {
     "Name": "Scizor",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 11,
     "HP": 4944,
@@ -2511,7 +2511,7 @@
   },
   {
     "Name": "Scizor",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 12,
     "HP": 5246,
@@ -2521,7 +2521,7 @@
   },
   {
     "Name": "Scizor",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 13,
     "HP": 5593,
@@ -2531,7 +2531,7 @@
   },
   {
     "Name": "Scizor",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 14,
     "HP": 5992,
@@ -2541,7 +2541,7 @@
   },
   {
     "Name": "Scizor",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 15,
     "HP": 6450,
@@ -2551,7 +2551,7 @@
   },
   {
     "Name": "Sableye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Supporter",
     "Level": 1,
     "HP": 3000,
@@ -2561,7 +2561,7 @@
   },
   {
     "Name": "Sableye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Supporter",
     "Level": 2,
     "HP": 3139,
@@ -2571,7 +2571,7 @@
   },
   {
     "Name": "Sableye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Supporter",
     "Level": 3,
     "HP": 3292,
@@ -2581,7 +2581,7 @@
   },
   {
     "Name": "Sableye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Supporter",
     "Level": 4,
     "HP": 3460,
@@ -2591,7 +2591,7 @@
   },
   {
     "Name": "Sableye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Supporter",
     "Level": 5,
     "HP": 3644,
@@ -2601,7 +2601,7 @@
   },
   {
     "Name": "Sableye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Supporter",
     "Level": 6,
     "HP": 3847,
@@ -2611,7 +2611,7 @@
   },
   {
     "Name": "Sableye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Supporter",
     "Level": 7,
     "HP": 4070,
@@ -2621,7 +2621,7 @@
   },
   {
     "Name": "Sableye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Supporter",
     "Level": 8,
     "HP": 4316,
@@ -2631,7 +2631,7 @@
   },
   {
     "Name": "Sableye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Supporter",
     "Level": 9,
     "HP": 4587,
@@ -2641,7 +2641,7 @@
   },
   {
     "Name": "Sableye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Supporter",
     "Level": 10,
     "HP": 4886,
@@ -2651,7 +2651,7 @@
   },
   {
     "Name": "Sableye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Supporter",
     "Level": 11,
     "HP": 5216,
@@ -2661,7 +2661,7 @@
   },
   {
     "Name": "Sableye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Supporter",
     "Level": 12,
     "HP": 5578,
@@ -2671,7 +2671,7 @@
   },
   {
     "Name": "Sableye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Supporter",
     "Level": 13,
     "HP": 5977,
@@ -2681,7 +2681,7 @@
   },
   {
     "Name": "Sableye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Supporter",
     "Level": 14,
     "HP": 6416,
@@ -2691,7 +2691,7 @@
   },
   {
     "Name": "Sableye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Supporter",
     "Level": 15,
     "HP": 6900,
@@ -2701,7 +2701,7 @@
   },
   {
     "Name": "Psyduck",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 1,
     "HP": 3300,
@@ -2711,7 +2711,7 @@
   },
   {
     "Name": "Psyduck",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 2,
     "HP": 3503,
@@ -2721,7 +2721,7 @@
   },
   {
     "Name": "Psyduck",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 3,
     "HP": 3726,
@@ -2731,7 +2731,7 @@
   },
   {
     "Name": "Psyduck",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 4,
     "HP": 3971,
@@ -2741,7 +2741,7 @@
   },
   {
     "Name": "Psyduck",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 5,
     "HP": 4240,
@@ -2751,7 +2751,7 @@
   },
   {
     "Name": "Psyduck",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 6,
     "HP": 4537,
@@ -2761,7 +2761,7 @@
   },
   {
     "Name": "Psyduck",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 7,
     "HP": 4864,
@@ -2771,7 +2771,7 @@
   },
   {
     "Name": "Psyduck",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 8,
     "HP": 5224,
@@ -2781,7 +2781,7 @@
   },
   {
     "Name": "Psyduck",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 9,
     "HP": 5621,
@@ -2791,7 +2791,7 @@
   },
   {
     "Name": "Psyduck",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 10,
     "HP": 6058,
@@ -2801,7 +2801,7 @@
   },
   {
     "Name": "Psyduck",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 11,
     "HP": 6539,
@@ -2811,7 +2811,7 @@
   },
   {
     "Name": "Psyduck",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 12,
     "HP": 7068,
@@ -2821,7 +2821,7 @@
   },
   {
     "Name": "Psyduck",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 13,
     "HP": 7651,
@@ -2831,7 +2831,7 @@
   },
   {
     "Name": "Psyduck",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 14,
     "HP": 8293,
@@ -2841,7 +2841,7 @@
   },
   {
     "Name": "Psyduck",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 15,
     "HP": 9000,
@@ -2851,7 +2851,7 @@
   },
   {
     "Name": "Pikachu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 1,
     "HP": 3292,
@@ -2861,7 +2861,7 @@
   },
   {
     "Name": "Pikachu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 2,
     "HP": 3399,
@@ -2871,7 +2871,7 @@
   },
   {
     "Name": "Pikachu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 3,
     "HP": 3517,
@@ -2881,7 +2881,7 @@
   },
   {
     "Name": "Pikachu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 4,
     "HP": 3646,
@@ -2891,7 +2891,7 @@
   },
   {
     "Name": "Pikachu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 5,
     "HP": 3788,
@@ -2901,7 +2901,7 @@
   },
   {
     "Name": "Pikachu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 6,
     "HP": 3945,
@@ -2911,7 +2911,7 @@
   },
   {
     "Name": "Pikachu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 7,
     "HP": 4117,
@@ -2921,7 +2921,7 @@
   },
   {
     "Name": "Pikachu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 8,
     "HP": 4307,
@@ -2931,7 +2931,7 @@
   },
   {
     "Name": "Pikachu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 9,
     "HP": 4516,
@@ -2941,7 +2941,7 @@
   },
   {
     "Name": "Pikachu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 10,
     "HP": 4747,
@@ -2951,7 +2951,7 @@
   },
   {
     "Name": "Pikachu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 11,
     "HP": 5001,
@@ -2961,7 +2961,7 @@
   },
   {
     "Name": "Pikachu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 12,
     "HP": 5280,
@@ -2971,7 +2971,7 @@
   },
   {
     "Name": "Pikachu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 13,
     "HP": 5588,
@@ -2981,7 +2981,7 @@
   },
   {
     "Name": "Pikachu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 14,
     "HP": 5927,
@@ -2991,7 +2991,7 @@
   },
   {
     "Name": "Pikachu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 15,
     "HP": 6300,
@@ -3001,7 +3001,7 @@
   },
   {
     "Name": "Mr. Mime",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 1,
     "HP": 3150,
@@ -3011,7 +3011,7 @@
   },
   {
     "Name": "Mr. Mime",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 2,
     "HP": 3351,
@@ -3021,7 +3021,7 @@
   },
   {
     "Name": "Mr. Mime",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 3,
     "HP": 3572,
@@ -3031,7 +3031,7 @@
   },
   {
     "Name": "Mr. Mime",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 4,
     "HP": 3815,
@@ -3041,7 +3041,7 @@
   },
   {
     "Name": "Mr. Mime",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 5,
     "HP": 4082,
@@ -3051,7 +3051,7 @@
   },
   {
     "Name": "Mr. Mime",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 6,
     "HP": 4376,
@@ -3061,7 +3061,7 @@
   },
   {
     "Name": "Mr. Mime",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 7,
     "HP": 4700,
@@ -3071,7 +3071,7 @@
   },
   {
     "Name": "Mr. Mime",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 8,
     "HP": 5057,
@@ -3081,7 +3081,7 @@
   },
   {
     "Name": "Mr. Mime",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 9,
     "HP": 5450,
@@ -3091,7 +3091,7 @@
   },
   {
     "Name": "Mr. Mime",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 10,
     "HP": 5883,
@@ -3101,7 +3101,7 @@
   },
   {
     "Name": "Mr. Mime",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 11,
     "HP": 6360,
@@ -3111,7 +3111,7 @@
   },
   {
     "Name": "Mr. Mime",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 12,
     "HP": 6885,
@@ -3121,7 +3121,7 @@
   },
   {
     "Name": "Mr. Mime",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 13,
     "HP": 7463,
@@ -3131,7 +3131,7 @@
   },
   {
     "Name": "Mr. Mime",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 14,
     "HP": 8099,
@@ -3141,7 +3141,7 @@
   },
   {
     "Name": "Mr. Mime",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 15,
     "HP": 8800,
@@ -3151,7 +3151,7 @@
   },
   {
     "Name": "Miraidon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 1,
     "HP": 3300,
@@ -3161,7 +3161,7 @@
   },
   {
     "Name": "Miraidon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 2,
     "HP": 3432,
@@ -3171,7 +3171,7 @@
   },
   {
     "Name": "Miraidon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 3,
     "HP": 3577,
@@ -3181,7 +3181,7 @@
   },
   {
     "Name": "Miraidon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 4,
     "HP": 3736,
@@ -3191,7 +3191,7 @@
   },
   {
     "Name": "Miraidon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 5,
     "HP": 3911,
@@ -3201,7 +3201,7 @@
   },
   {
     "Name": "Miraidon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 6,
     "HP": 4104,
@@ -3211,7 +3211,7 @@
   },
   {
     "Name": "Miraidon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 7,
     "HP": 4316,
@@ -3221,7 +3221,7 @@
   },
   {
     "Name": "Miraidon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 8,
     "HP": 4549,
@@ -3231,7 +3231,7 @@
   },
   {
     "Name": "Miraidon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 9,
     "HP": 4806,
@@ -3241,7 +3241,7 @@
   },
   {
     "Name": "Miraidon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 10,
     "HP": 5090,
@@ -3251,7 +3251,7 @@
   },
   {
     "Name": "Miraidon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 11,
     "HP": 5402,
@@ -3261,7 +3261,7 @@
   },
   {
     "Name": "Miraidon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 12,
     "HP": 5746,
@@ -3271,7 +3271,7 @@
   },
   {
     "Name": "Miraidon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 13,
     "HP": 6124,
@@ -3281,7 +3281,7 @@
   },
   {
     "Name": "Miraidon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 14,
     "HP": 6541,
@@ -3291,7 +3291,7 @@
   },
   {
     "Name": "Miraidon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 15,
     "HP": 7000,
@@ -3301,7 +3301,7 @@
   },
   {
     "Name": "Mimikyu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 1,
     "HP": 3150,
@@ -3311,7 +3311,7 @@
   },
   {
     "Name": "Mimikyu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 2,
     "HP": 3301,
@@ -3321,7 +3321,7 @@
   },
   {
     "Name": "Mimikyu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 3,
     "HP": 3467,
@@ -3331,7 +3331,7 @@
   },
   {
     "Name": "Mimikyu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 4,
     "HP": 3650,
@@ -3341,7 +3341,7 @@
   },
   {
     "Name": "Mimikyu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 5,
     "HP": 3851,
@@ -3351,7 +3351,7 @@
   },
   {
     "Name": "Mimikyu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 6,
     "HP": 4072,
@@ -3361,7 +3361,7 @@
   },
   {
     "Name": "Mimikyu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 7,
     "HP": 4315,
@@ -3371,7 +3371,7 @@
   },
   {
     "Name": "Mimikyu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 8,
     "HP": 4583,
@@ -3381,7 +3381,7 @@
   },
   {
     "Name": "Mimikyu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 9,
     "HP": 4879,
@@ -3391,7 +3391,7 @@
   },
   {
     "Name": "Mimikyu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 10,
     "HP": 5205,
@@ -3401,7 +3401,7 @@
   },
   {
     "Name": "Mimikyu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 11,
     "HP": 5564,
@@ -3411,7 +3411,7 @@
   },
   {
     "Name": "Mimikyu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 12,
     "HP": 5959,
@@ -3421,7 +3421,7 @@
   },
   {
     "Name": "Mimikyu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 13,
     "HP": 6394,
@@ -3431,7 +3431,7 @@
   },
   {
     "Name": "Mimikyu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 14,
     "HP": 6873,
@@ -3441,7 +3441,7 @@
   },
   {
     "Name": "Mimikyu",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 15,
     "HP": 7400,
@@ -3451,7 +3451,7 @@
   },
   {
     "Name": "Mewtwo Y",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 1,
     "HP": 3400,
@@ -3461,7 +3461,7 @@
   },
   {
     "Name": "Mewtwo Y",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 2,
     "HP": 3510,
@@ -3471,7 +3471,7 @@
   },
   {
     "Name": "Mewtwo Y",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 3,
     "HP": 3631,
@@ -3481,7 +3481,7 @@
   },
   {
     "Name": "Mewtwo Y",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 4,
     "HP": 3764,
@@ -3491,7 +3491,7 @@
   },
   {
     "Name": "Mewtwo Y",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 5,
     "HP": 3910,
@@ -3501,7 +3501,7 @@
   },
   {
     "Name": "Mewtwo Y",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 6,
     "HP": 4072,
@@ -3511,7 +3511,7 @@
   },
   {
     "Name": "Mewtwo Y",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 7,
     "HP": 4250,
@@ -3521,7 +3521,7 @@
   },
   {
     "Name": "Mewtwo Y",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 8,
     "HP": 4446,
@@ -3531,7 +3531,7 @@
   },
   {
     "Name": "Mewtwo Y",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 9,
     "HP": 4662,
@@ -3541,7 +3541,7 @@
   },
   {
     "Name": "Mewtwo Y",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 10,
     "HP": 4900,
@@ -3551,7 +3551,7 @@
   },
   {
     "Name": "Mewtwo Y",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 11,
     "HP": 5162,
@@ -3561,7 +3561,7 @@
   },
   {
     "Name": "Mewtwo Y",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 12,
     "HP": 5450,
@@ -3571,7 +3571,7 @@
   },
   {
     "Name": "Mewtwo Y",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 13,
     "HP": 5767,
@@ -3581,7 +3581,7 @@
   },
   {
     "Name": "Mewtwo Y",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 14,
     "HP": 6116,
@@ -3591,7 +3591,7 @@
   },
   {
     "Name": "Mewtwo Y",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 15,
     "HP": 6500,
@@ -3601,7 +3601,7 @@
   },
   {
     "Name": "Mewtwo X",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 1,
     "HP": 3500,
@@ -3611,7 +3611,7 @@
   },
   {
     "Name": "Mewtwo X",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 2,
     "HP": 3653,
@@ -3621,7 +3621,7 @@
   },
   {
     "Name": "Mewtwo X",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 3,
     "HP": 3821,
@@ -3631,7 +3631,7 @@
   },
   {
     "Name": "Mewtwo X",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 4,
     "HP": 4006,
@@ -3641,7 +3641,7 @@
   },
   {
     "Name": "Mewtwo X",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 5,
     "HP": 4209,
@@ -3651,7 +3651,7 @@
   },
   {
     "Name": "Mewtwo X",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 6,
     "HP": 4433,
@@ -3661,7 +3661,7 @@
   },
   {
     "Name": "Mewtwo X",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 7,
     "HP": 4679,
@@ -3671,7 +3671,7 @@
   },
   {
     "Name": "Mewtwo X",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 8,
     "HP": 4950,
@@ -3681,7 +3681,7 @@
   },
   {
     "Name": "Mewtwo X",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 9,
     "HP": 5249,
@@ -3691,7 +3691,7 @@
   },
   {
     "Name": "Mewtwo X",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 10,
     "HP": 5579,
@@ -3701,7 +3701,7 @@
   },
   {
     "Name": "Mewtwo X",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 11,
     "HP": 5942,
@@ -3711,7 +3711,7 @@
   },
   {
     "Name": "Mewtwo X",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 12,
     "HP": 6342,
@@ -3721,7 +3721,7 @@
   },
   {
     "Name": "Mewtwo X",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 13,
     "HP": 6782,
@@ -3731,7 +3731,7 @@
   },
   {
     "Name": "Mewtwo X",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 14,
     "HP": 7267,
@@ -3741,7 +3741,7 @@
   },
   {
     "Name": "Mewtwo X",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 15,
     "HP": 7800,
@@ -3751,7 +3751,7 @@
   },
   {
     "Name": "Mew",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 1,
     "HP": 3300,
@@ -3761,7 +3761,7 @@
   },
   {
     "Name": "Mew",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 2,
     "HP": 3414,
@@ -3771,7 +3771,7 @@
   },
   {
     "Name": "Mew",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 3,
     "HP": 3539,
@@ -3781,7 +3781,7 @@
   },
   {
     "Name": "Mew",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 4,
     "HP": 3677,
@@ -3791,7 +3791,7 @@
   },
   {
     "Name": "Mew",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 5,
     "HP": 3828,
@@ -3801,7 +3801,7 @@
   },
   {
     "Name": "Mew",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 6,
     "HP": 3995,
@@ -3811,7 +3811,7 @@
   },
   {
     "Name": "Mew",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 7,
     "HP": 4178,
@@ -3821,7 +3821,7 @@
   },
   {
     "Name": "Mew",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 8,
     "HP": 4380,
@@ -3831,7 +3831,7 @@
   },
   {
     "Name": "Mew",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 9,
     "HP": 4603,
@@ -3841,7 +3841,7 @@
   },
   {
     "Name": "Mew",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 10,
     "HP": 4849,
@@ -3851,7 +3851,7 @@
   },
   {
     "Name": "Mew",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 11,
     "HP": 5119,
@@ -3861,7 +3861,7 @@
   },
   {
     "Name": "Mew",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 12,
     "HP": 5416,
@@ -3871,7 +3871,7 @@
   },
   {
     "Name": "Mew",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 13,
     "HP": 5743,
@@ -3881,7 +3881,7 @@
   },
   {
     "Name": "Mew",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 14,
     "HP": 6103,
@@ -3891,7 +3891,7 @@
   },
   {
     "Name": "Mew",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 15,
     "HP": 6500,
@@ -3901,7 +3901,7 @@
   },
   {
     "Name": "Metagross",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 1,
     "HP": 3100,
@@ -3911,7 +3911,7 @@
   },
   {
     "Name": "Metagross",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 2,
     "HP": 3172,
@@ -3921,7 +3921,7 @@
   },
   {
     "Name": "Metagross",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 3,
     "HP": 3259,
@@ -3931,7 +3931,7 @@
   },
   {
     "Name": "Metagross",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 4,
     "HP": 3363,
@@ -3941,7 +3941,7 @@
   },
   {
     "Name": "Metagross",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 5,
     "HP": 3741,
@@ -3951,7 +3951,7 @@
   },
   {
     "Name": "Metagross",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 6,
     "HP": 3891,
@@ -3961,7 +3961,7 @@
   },
   {
     "Name": "Metagross",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 7,
     "HP": 4072,
@@ -3971,7 +3971,7 @@
   },
   {
     "Name": "Metagross",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 8,
     "HP": 4289,
@@ -3981,7 +3981,7 @@
   },
   {
     "Name": "Metagross",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 9,
     "HP": 5054,
@@ -3991,7 +3991,7 @@
   },
   {
     "Name": "Metagross",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 10,
     "HP": 5366,
@@ -4001,7 +4001,7 @@
   },
   {
     "Name": "Metagross",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 11,
     "HP": 5740,
@@ -4011,7 +4011,7 @@
   },
   {
     "Name": "Metagross",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 12,
     "HP": 6189,
@@ -4021,7 +4021,7 @@
   },
   {
     "Name": "Metagross",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 13,
     "HP": 6728,
@@ -4031,7 +4031,7 @@
   },
   {
     "Name": "Metagross",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 14,
     "HP": 7374,
@@ -4041,7 +4041,7 @@
   },
   {
     "Name": "Metagross",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 15,
     "HP": 8150,
@@ -4051,7 +4051,7 @@
   },
   {
     "Name": "Meowscarada",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 1,
     "HP": 3100,
@@ -4061,7 +4061,7 @@
   },
   {
     "Name": "Meowscarada",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 2,
     "HP": 3149,
@@ -4071,7 +4071,7 @@
   },
   {
     "Name": "Meowscarada",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 3,
     "HP": 3207,
@@ -4081,7 +4081,7 @@
   },
   {
     "Name": "Meowscarada",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 4,
     "HP": 3446,
@@ -4091,7 +4091,7 @@
   },
   {
     "Name": "Meowscarada",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 5,
     "HP": 3530,
@@ -4101,7 +4101,7 @@
   },
   {
     "Name": "Meowscarada",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 6,
     "HP": 3970,
@@ -4111,7 +4111,7 @@
   },
   {
     "Name": "Meowscarada",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 7,
     "HP": 4091,
@@ -4121,7 +4121,7 @@
   },
   {
     "Name": "Meowscarada",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 8,
     "HP": 4237,
@@ -4131,7 +4131,7 @@
   },
   {
     "Name": "Meowscarada",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 9,
     "HP": 4412,
@@ -4141,7 +4141,7 @@
   },
   {
     "Name": "Meowscarada",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 10,
     "HP": 4621,
@@ -4151,7 +4151,7 @@
   },
   {
     "Name": "Meowscarada",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 11,
     "HP": 4872,
@@ -4161,7 +4161,7 @@
   },
   {
     "Name": "Meowscarada",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 12,
     "HP": 5174,
@@ -4171,7 +4171,7 @@
   },
   {
     "Name": "Meowscarada",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 13,
     "HP": 5536,
@@ -4181,7 +4181,7 @@
   },
   {
     "Name": "Meowscarada",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 14,
     "HP": 5970,
@@ -4191,7 +4191,7 @@
   },
   {
     "Name": "Meowscarada",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 15,
     "HP": 6490,
@@ -4201,7 +4201,7 @@
   },
   {
     "Name": "Mamoswine",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 1,
     "HP": 3280,
@@ -4211,7 +4211,7 @@
   },
   {
     "Name": "Mamoswine",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 2,
     "HP": 3371,
@@ -4221,7 +4221,7 @@
   },
   {
     "Name": "Mamoswine",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 3,
     "HP": 3480,
@@ -4231,7 +4231,7 @@
   },
   {
     "Name": "Mamoswine",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 4,
     "HP": 3611,
@@ -4241,7 +4241,7 @@
   },
   {
     "Name": "Mamoswine",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 5,
     "HP": 4087,
@@ -4251,7 +4251,7 @@
   },
   {
     "Name": "Mamoswine",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 6,
     "HP": 4277,
@@ -4261,7 +4261,7 @@
   },
   {
     "Name": "Mamoswine",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 7,
     "HP": 4505,
@@ -4271,7 +4271,7 @@
   },
   {
     "Name": "Mamoswine",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 8,
     "HP": 4778,
@@ -4281,7 +4281,7 @@
   },
   {
     "Name": "Mamoswine",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 9,
     "HP": 5743,
@@ -4291,7 +4291,7 @@
   },
   {
     "Name": "Mamoswine",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 10,
     "HP": 6136,
@@ -4301,7 +4301,7 @@
   },
   {
     "Name": "Mamoswine",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 11,
     "HP": 6608,
@@ -4311,7 +4311,7 @@
   },
   {
     "Name": "Mamoswine",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 12,
     "HP": 7174,
@@ -4321,7 +4321,7 @@
   },
   {
     "Name": "Mamoswine",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 13,
     "HP": 7854,
@@ -4331,7 +4331,7 @@
   },
   {
     "Name": "Mamoswine",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 14,
     "HP": 8669,
@@ -4341,7 +4341,7 @@
   },
   {
     "Name": "Mamoswine",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 15,
     "HP": 9648,
@@ -4351,7 +4351,7 @@
   },
   {
     "Name": "Machamp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 1,
     "HP": 3250,
@@ -4361,7 +4361,7 @@
   },
   {
     "Name": "Machamp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 2,
     "HP": 3313,
@@ -4371,7 +4371,7 @@
   },
   {
     "Name": "Machamp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 3,
     "HP": 3389,
@@ -4381,7 +4381,7 @@
   },
   {
     "Name": "Machamp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 4,
     "HP": 3480,
@@ -4391,7 +4391,7 @@
   },
   {
     "Name": "Machamp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 5,
     "HP": 3809,
@@ -4401,7 +4401,7 @@
   },
   {
     "Name": "Machamp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 6,
     "HP": 3940,
@@ -4411,7 +4411,7 @@
   },
   {
     "Name": "Machamp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 7,
     "HP": 4097,
@@ -4421,7 +4421,7 @@
   },
   {
     "Name": "Machamp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 8,
     "HP": 4286,
@@ -4431,7 +4431,7 @@
   },
   {
     "Name": "Machamp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 9,
     "HP": 4953,
@@ -4441,7 +4441,7 @@
   },
   {
     "Name": "Machamp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 10,
     "HP": 5225,
@@ -4451,7 +4451,7 @@
   },
   {
     "Name": "Machamp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 11,
     "HP": 5551,
@@ -4461,7 +4461,7 @@
   },
   {
     "Name": "Machamp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 12,
     "HP": 5942,
@@ -4471,7 +4471,7 @@
   },
   {
     "Name": "Machamp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 13,
     "HP": 6411,
@@ -4481,7 +4481,7 @@
   },
   {
     "Name": "Machamp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 14,
     "HP": 6974,
@@ -4491,7 +4491,7 @@
   },
   {
     "Name": "Machamp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 15,
     "HP": 7650,
@@ -4501,7 +4501,7 @@
   },
   {
     "Name": "Lucario",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 1,
     "HP": 3250,
@@ -4511,7 +4511,7 @@
   },
   {
     "Name": "Lucario",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 2,
     "HP": 3392,
@@ -4521,7 +4521,7 @@
   },
   {
     "Name": "Lucario",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 3,
     "HP": 3549,
@@ -4531,7 +4531,7 @@
   },
   {
     "Name": "Lucario",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 4,
     "HP": 3721,
@@ -4541,7 +4541,7 @@
   },
   {
     "Name": "Lucario",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 5,
     "HP": 3910,
@@ -4551,7 +4551,7 @@
   },
   {
     "Name": "Lucario",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 6,
     "HP": 4118,
@@ -4561,7 +4561,7 @@
   },
   {
     "Name": "Lucario",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 7,
     "HP": 4347,
@@ -4571,7 +4571,7 @@
   },
   {
     "Name": "Lucario",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 8,
     "HP": 4599,
@@ -4581,7 +4581,7 @@
   },
   {
     "Name": "Lucario",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 9,
     "HP": 4877,
@@ -4591,7 +4591,7 @@
   },
   {
     "Name": "Lucario",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 10,
     "HP": 5184,
@@ -4601,7 +4601,7 @@
   },
   {
     "Name": "Lucario",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 11,
     "HP": 5522,
@@ -4611,7 +4611,7 @@
   },
   {
     "Name": "Lucario",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 12,
     "HP": 5894,
@@ -4621,7 +4621,7 @@
   },
   {
     "Name": "Lucario",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 13,
     "HP": 6303,
@@ -4631,7 +4631,7 @@
   },
   {
     "Name": "Lucario",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 14,
     "HP": 6753,
@@ -4641,7 +4641,7 @@
   },
   {
     "Name": "Lucario",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 15,
     "HP": 7249,
@@ -4651,7 +4651,7 @@
   },
   {
     "Name": "Leafeon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 1,
     "HP": 3100,
@@ -4661,7 +4661,7 @@
   },
   {
     "Name": "Leafeon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 2,
     "HP": 3170,
@@ -4671,7 +4671,7 @@
   },
   {
     "Name": "Leafeon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 3,
     "HP": 3250,
@@ -4681,7 +4681,7 @@
   },
   {
     "Name": "Leafeon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 4,
     "HP": 3658,
@@ -4691,7 +4691,7 @@
   },
   {
     "Name": "Leafeon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 5,
     "HP": 3764,
@@ -4701,7 +4701,7 @@
   },
   {
     "Name": "Leafeon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 6,
     "HP": 3886,
@@ -4711,7 +4711,7 @@
   },
   {
     "Name": "Leafeon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 7,
     "HP": 4027,
@@ -4721,7 +4721,7 @@
   },
   {
     "Name": "Leafeon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 8,
     "HP": 4189,
@@ -4731,7 +4731,7 @@
   },
   {
     "Name": "Leafeon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 9,
     "HP": 4375,
@@ -4741,7 +4741,7 @@
   },
   {
     "Name": "Leafeon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 10,
     "HP": 4589,
@@ -4751,7 +4751,7 @@
   },
   {
     "Name": "Leafeon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 11,
     "HP": 4835,
@@ -4761,7 +4761,7 @@
   },
   {
     "Name": "Leafeon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 12,
     "HP": 5118,
@@ -4771,7 +4771,7 @@
   },
   {
     "Name": "Leafeon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 13,
     "HP": 5444,
@@ -4781,7 +4781,7 @@
   },
   {
     "Name": "Leafeon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 14,
     "HP": 5819,
@@ -4791,7 +4791,7 @@
   },
   {
     "Name": "Leafeon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 15,
     "HP": 6250,
@@ -4801,7 +4801,7 @@
   },
   {
     "Name": "Lapras",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 1,
     "HP": 3300,
@@ -4811,7 +4811,7 @@
   },
   {
     "Name": "Lapras",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 2,
     "HP": 3531,
@@ -4821,7 +4821,7 @@
   },
   {
     "Name": "Lapras",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 3,
     "HP": 3786,
@@ -4831,7 +4831,7 @@
   },
   {
     "Name": "Lapras",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 4,
     "HP": 4066,
@@ -4841,7 +4841,7 @@
   },
   {
     "Name": "Lapras",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 5,
     "HP": 4373,
@@ -4851,7 +4851,7 @@
   },
   {
     "Name": "Lapras",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 6,
     "HP": 4712,
@@ -4861,7 +4861,7 @@
   },
   {
     "Name": "Lapras",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 7,
     "HP": 5084,
@@ -4871,7 +4871,7 @@
   },
   {
     "Name": "Lapras",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 8,
     "HP": 5494,
@@ -4881,7 +4881,7 @@
   },
   {
     "Name": "Lapras",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 9,
     "HP": 5946,
@@ -4891,7 +4891,7 @@
   },
   {
     "Name": "Lapras",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 10,
     "HP": 6444,
@@ -4901,7 +4901,7 @@
   },
   {
     "Name": "Lapras",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 11,
     "HP": 6993,
@@ -4911,7 +4911,7 @@
   },
   {
     "Name": "Lapras",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 12,
     "HP": 7597,
@@ -4921,7 +4921,7 @@
   },
   {
     "Name": "Lapras",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 13,
     "HP": 8262,
@@ -4931,7 +4931,7 @@
   },
   {
     "Name": "Lapras",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 14,
     "HP": 8994,
@@ -4941,7 +4941,7 @@
   },
   {
     "Name": "Lapras",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 15,
     "HP": 9800,
@@ -4951,7 +4951,7 @@
   },
   {
     "Name": "Inteleon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 1,
     "HP": 3200,
@@ -4961,7 +4961,7 @@
   },
   {
     "Name": "Inteleon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 2,
     "HP": 3244,
@@ -4971,7 +4971,7 @@
   },
   {
     "Name": "Inteleon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 3,
     "HP": 3297,
@@ -4981,7 +4981,7 @@
   },
   {
     "Name": "Inteleon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 4,
     "HP": 3361,
@@ -4991,7 +4991,7 @@
   },
   {
     "Name": "Inteleon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 5,
     "HP": 3593,
@@ -5001,7 +5001,7 @@
   },
   {
     "Name": "Inteleon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 6,
     "HP": 3685,
@@ -5011,7 +5011,7 @@
   },
   {
     "Name": "Inteleon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 7,
     "HP": 4106,
@@ -5021,7 +5021,7 @@
   },
   {
     "Name": "Inteleon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 8,
     "HP": 4239,
@@ -5031,7 +5031,7 @@
   },
   {
     "Name": "Inteleon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 9,
     "HP": 4399,
@@ -5041,7 +5041,7 @@
   },
   {
     "Name": "Inteleon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 10,
     "HP": 4590,
@@ -5051,7 +5051,7 @@
   },
   {
     "Name": "Inteleon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 11,
     "HP": 4820,
@@ -5061,7 +5061,7 @@
   },
   {
     "Name": "Inteleon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 12,
     "HP": 5096,
@@ -5071,7 +5071,7 @@
   },
   {
     "Name": "Inteleon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 13,
     "HP": 5427,
@@ -5081,7 +5081,7 @@
   },
   {
     "Name": "Inteleon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 14,
     "HP": 5824,
@@ -5091,7 +5091,7 @@
   },
   {
     "Name": "Inteleon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 15,
     "HP": 6300,
@@ -5101,7 +5101,7 @@
   },
   {
     "Name": "Hoopa",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 1,
     "HP": 3278,
@@ -5111,7 +5111,7 @@
   },
   {
     "Name": "Hoopa",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 2,
     "HP": 3443,
@@ -5121,7 +5121,7 @@
   },
   {
     "Name": "Hoopa",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 3,
     "HP": 3624,
@@ -5131,7 +5131,7 @@
   },
   {
     "Name": "Hoopa",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 4,
     "HP": 3823,
@@ -5141,7 +5141,7 @@
   },
   {
     "Name": "Hoopa",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 5,
     "HP": 4041,
@@ -5151,7 +5151,7 @@
   },
   {
     "Name": "Hoopa",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 6,
     "HP": 4282,
@@ -5161,7 +5161,7 @@
   },
   {
     "Name": "Hoopa",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 7,
     "HP": 4547,
@@ -5171,7 +5171,7 @@
   },
   {
     "Name": "Hoopa",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 8,
     "HP": 4839,
@@ -5181,7 +5181,7 @@
   },
   {
     "Name": "Hoopa",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 9,
     "HP": 5161,
@@ -5191,7 +5191,7 @@
   },
   {
     "Name": "Hoopa",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 10,
     "HP": 5516,
@@ -5201,7 +5201,7 @@
   },
   {
     "Name": "Hoopa",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 11,
     "HP": 5906,
@@ -5211,7 +5211,7 @@
   },
   {
     "Name": "Hoopa",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 12,
     "HP": 6335,
@@ -5221,7 +5221,7 @@
   },
   {
     "Name": "Hoopa",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 13,
     "HP": 6808,
@@ -5231,7 +5231,7 @@
   },
   {
     "Name": "Hoopa",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 14,
     "HP": 7329,
@@ -5241,7 +5241,7 @@
   },
   {
     "Name": "Hoopa",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 15,
     "HP": 7902,
@@ -5251,7 +5251,7 @@
   },
   {
     "Name": "Ho-Oh",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 1,
     "HP": 3400,
@@ -5261,7 +5261,7 @@
   },
   {
     "Name": "Ho-Oh",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 2,
     "HP": 3631,
@@ -5271,7 +5271,7 @@
   },
   {
     "Name": "Ho-Oh",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 3,
     "HP": 3886,
@@ -5281,7 +5281,7 @@
   },
   {
     "Name": "Ho-Oh",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 4,
     "HP": 4166,
@@ -5291,7 +5291,7 @@
   },
   {
     "Name": "Ho-Oh",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 5,
     "HP": 4473,
@@ -5301,7 +5301,7 @@
   },
   {
     "Name": "Ho-Oh",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 6,
     "HP": 4812,
@@ -5311,7 +5311,7 @@
   },
   {
     "Name": "Ho-Oh",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 7,
     "HP": 5184,
@@ -5321,7 +5321,7 @@
   },
   {
     "Name": "Ho-Oh",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 8,
     "HP": 5594,
@@ -5331,7 +5331,7 @@
   },
   {
     "Name": "Ho-Oh",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 9,
     "HP": 6046,
@@ -5341,7 +5341,7 @@
   },
   {
     "Name": "Ho-Oh",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 10,
     "HP": 6544,
@@ -5351,7 +5351,7 @@
   },
   {
     "Name": "Ho-Oh",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 11,
     "HP": 7093,
@@ -5361,7 +5361,7 @@
   },
   {
     "Name": "Ho-Oh",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 12,
     "HP": 7697,
@@ -5371,7 +5371,7 @@
   },
   {
     "Name": "Ho-Oh",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 13,
     "HP": 8362,
@@ -5381,7 +5381,7 @@
   },
   {
     "Name": "Ho-Oh",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 14,
     "HP": 9094,
@@ -5391,7 +5391,7 @@
   },
   {
     "Name": "Ho-Oh",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 15,
     "HP": 9900,
@@ -5401,7 +5401,7 @@
   },
   {
     "Name": "Gyarados",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 1,
     "HP": 3100,
@@ -5411,7 +5411,7 @@
   },
   {
     "Name": "Gyarados",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 2,
     "HP": 3239,
@@ -5421,7 +5421,7 @@
   },
   {
     "Name": "Gyarados",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 3,
     "HP": 3392,
@@ -5431,7 +5431,7 @@
   },
   {
     "Name": "Gyarados",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 4,
     "HP": 3560,
@@ -5441,7 +5441,7 @@
   },
   {
     "Name": "Gyarados",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 5,
     "HP": 3744,
@@ -5451,7 +5451,7 @@
   },
   {
     "Name": "Gyarados",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 6,
     "HP": 3947,
@@ -5461,7 +5461,7 @@
   },
   {
     "Name": "Gyarados",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 7,
     "HP": 4170,
@@ -5471,7 +5471,7 @@
   },
   {
     "Name": "Gyarados",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 8,
     "HP": 4416,
@@ -5481,7 +5481,7 @@
   },
   {
     "Name": "Gyarados",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 9,
     "HP": 4687,
@@ -5491,7 +5491,7 @@
   },
   {
     "Name": "Gyarados",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 10,
     "HP": 4986,
@@ -5501,7 +5501,7 @@
   },
   {
     "Name": "Gyarados",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 11,
     "HP": 5316,
@@ -5511,7 +5511,7 @@
   },
   {
     "Name": "Gyarados",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 12,
     "HP": 5678,
@@ -5521,7 +5521,7 @@
   },
   {
     "Name": "Gyarados",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 13,
     "HP": 6077,
@@ -5531,7 +5531,7 @@
   },
   {
     "Name": "Gyarados",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 14,
     "HP": 6516,
@@ -5541,7 +5541,7 @@
   },
   {
     "Name": "Gyarados",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 15,
     "HP": 7000,
@@ -5551,7 +5551,7 @@
   },
   {
     "Name": "Greninja",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 1,
     "HP": 3000,
@@ -5561,7 +5561,7 @@
   },
   {
     "Name": "Greninja",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 2,
     "HP": 3035,
@@ -5571,7 +5571,7 @@
   },
   {
     "Name": "Greninja",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 3,
     "HP": 3077,
@@ -5581,7 +5581,7 @@
   },
   {
     "Name": "Greninja",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 4,
     "HP": 3127,
@@ -5591,7 +5591,7 @@
   },
   {
     "Name": "Greninja",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 5,
     "HP": 3308,
@@ -5601,7 +5601,7 @@
   },
   {
     "Name": "Greninja",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 6,
     "HP": 3380,
@@ -5611,7 +5611,7 @@
   },
   {
     "Name": "Greninja",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 7,
     "HP": 3708,
@@ -5621,7 +5621,7 @@
   },
   {
     "Name": "Greninja",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 8,
     "HP": 3812,
@@ -5631,7 +5631,7 @@
   },
   {
     "Name": "Greninja",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 9,
     "HP": 3937,
@@ -5641,7 +5641,7 @@
   },
   {
     "Name": "Greninja",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 10,
     "HP": 4086,
@@ -5651,7 +5651,7 @@
   },
   {
     "Name": "Greninja",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 11,
     "HP": 4265,
@@ -5661,7 +5661,7 @@
   },
   {
     "Name": "Greninja",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 12,
     "HP": 4480,
@@ -5671,7 +5671,7 @@
   },
   {
     "Name": "Greninja",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 13,
     "HP": 4738,
@@ -5681,7 +5681,7 @@
   },
   {
     "Name": "Greninja",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 14,
     "HP": 5048,
@@ -5691,7 +5691,7 @@
   },
   {
     "Name": "Greninja",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 15,
     "HP": 5420,
@@ -5701,7 +5701,7 @@
   },
   {
     "Name": "Greedent",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 1,
     "HP": 3000,
@@ -5711,7 +5711,7 @@
   },
   {
     "Name": "Greedent",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 2,
     "HP": 3135,
@@ -5721,7 +5721,7 @@
   },
   {
     "Name": "Greedent",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 3,
     "HP": 3290,
@@ -5731,7 +5731,7 @@
   },
   {
     "Name": "Greedent",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 4,
     "HP": 3469,
@@ -5741,7 +5741,7 @@
   },
   {
     "Name": "Greedent",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 5,
     "HP": 4285,
@@ -5751,7 +5751,7 @@
   },
   {
     "Name": "Greedent",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 6,
     "HP": 4522,
@@ -5761,7 +5761,7 @@
   },
   {
     "Name": "Greedent",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 7,
     "HP": 4794,
@@ -5771,7 +5771,7 @@
   },
   {
     "Name": "Greedent",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 8,
     "HP": 5107,
@@ -5781,7 +5781,7 @@
   },
   {
     "Name": "Greedent",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 9,
     "HP": 5467,
@@ -5791,7 +5791,7 @@
   },
   {
     "Name": "Greedent",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 10,
     "HP": 5882,
@@ -5801,7 +5801,7 @@
   },
   {
     "Name": "Greedent",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 11,
     "HP": 6359,
@@ -5811,7 +5811,7 @@
   },
   {
     "Name": "Greedent",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 12,
     "HP": 6908,
@@ -5821,7 +5821,7 @@
   },
   {
     "Name": "Greedent",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 13,
     "HP": 7539,
@@ -5831,7 +5831,7 @@
   },
   {
     "Name": "Greedent",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 14,
     "HP": 8265,
@@ -5841,7 +5841,7 @@
   },
   {
     "Name": "Greedent",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 15,
     "HP": 9099,
@@ -5851,7 +5851,7 @@
   },
   {
     "Name": "Goodra",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 1,
     "HP": 3225,
@@ -5861,7 +5861,7 @@
   },
   {
     "Name": "Goodra",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 2,
     "HP": 3319,
@@ -5871,7 +5871,7 @@
   },
   {
     "Name": "Goodra",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 3,
     "HP": 3432,
@@ -5881,7 +5881,7 @@
   },
   {
     "Name": "Goodra",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 4,
     "HP": 3568,
@@ -5891,7 +5891,7 @@
   },
   {
     "Name": "Goodra",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 5,
     "HP": 4060,
@@ -5901,7 +5901,7 @@
   },
   {
     "Name": "Goodra",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 6,
     "HP": 4256,
@@ -5911,7 +5911,7 @@
   },
   {
     "Name": "Goodra",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 7,
     "HP": 4491,
@@ -5921,7 +5921,7 @@
   },
   {
     "Name": "Goodra",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 8,
     "HP": 5430,
@@ -5931,7 +5931,7 @@
   },
   {
     "Name": "Goodra",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 9,
     "HP": 5769,
@@ -5941,7 +5941,7 @@
   },
   {
     "Name": "Goodra",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 10,
     "HP": 6175,
@@ -5951,7 +5951,7 @@
   },
   {
     "Name": "Goodra",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 11,
     "HP": 6662,
@@ -5961,7 +5961,7 @@
   },
   {
     "Name": "Goodra",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 12,
     "HP": 7247,
@@ -5971,7 +5971,7 @@
   },
   {
     "Name": "Goodra",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 13,
     "HP": 7948,
@@ -5981,7 +5981,7 @@
   },
   {
     "Name": "Goodra",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 14,
     "HP": 8790,
@@ -5991,7 +5991,7 @@
   },
   {
     "Name": "Goodra",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 15,
     "HP": 9800,
@@ -6001,7 +6001,7 @@
   },
   {
     "Name": "Glaceon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 1,
     "HP": 3200,
@@ -6011,7 +6011,7 @@
   },
   {
     "Name": "Glaceon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 2,
     "HP": 3270,
@@ -6021,7 +6021,7 @@
   },
   {
     "Name": "Glaceon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 3,
     "HP": 3350,
@@ -6031,7 +6031,7 @@
   },
   {
     "Name": "Glaceon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 4,
     "HP": 3758,
@@ -6041,7 +6041,7 @@
   },
   {
     "Name": "Glaceon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 5,
     "HP": 3864,
@@ -6051,7 +6051,7 @@
   },
   {
     "Name": "Glaceon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 6,
     "HP": 3986,
@@ -6061,7 +6061,7 @@
   },
   {
     "Name": "Glaceon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 7,
     "HP": 4127,
@@ -6071,7 +6071,7 @@
   },
   {
     "Name": "Glaceon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 8,
     "HP": 4289,
@@ -6081,7 +6081,7 @@
   },
   {
     "Name": "Glaceon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 9,
     "HP": 4475,
@@ -6091,7 +6091,7 @@
   },
   {
     "Name": "Glaceon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 10,
     "HP": 4689,
@@ -6101,7 +6101,7 @@
   },
   {
     "Name": "Glaceon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 11,
     "HP": 4935,
@@ -6111,7 +6111,7 @@
   },
   {
     "Name": "Glaceon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 12,
     "HP": 5218,
@@ -6121,7 +6121,7 @@
   },
   {
     "Name": "Glaceon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 13,
     "HP": 5544,
@@ -6131,7 +6131,7 @@
   },
   {
     "Name": "Glaceon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 14,
     "HP": 5919,
@@ -6141,7 +6141,7 @@
   },
   {
     "Name": "Glaceon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 15,
     "HP": 6350,
@@ -6151,7 +6151,7 @@
   },
   {
     "Name": "Gengar",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 1,
     "HP": 3456,
@@ -6161,7 +6161,7 @@
   },
   {
     "Name": "Gengar",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 2,
     "HP": 3510,
@@ -6171,7 +6171,7 @@
   },
   {
     "Name": "Gengar",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 3,
     "HP": 3574,
@@ -6181,7 +6181,7 @@
   },
   {
     "Name": "Gengar",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 4,
     "HP": 3651,
@@ -6191,7 +6191,7 @@
   },
   {
     "Name": "Gengar",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 5,
     "HP": 3931,
@@ -6201,7 +6201,7 @@
   },
   {
     "Name": "Gengar",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 6,
     "HP": 4043,
@@ -6211,7 +6211,7 @@
   },
   {
     "Name": "Gengar",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 7,
     "HP": 4177,
@@ -6221,7 +6221,7 @@
   },
   {
     "Name": "Gengar",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 8,
     "HP": 4338,
@@ -6231,7 +6231,7 @@
   },
   {
     "Name": "Gengar",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 9,
     "HP": 4905,
@@ -6241,7 +6241,7 @@
   },
   {
     "Name": "Gengar",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 10,
     "HP": 5136,
@@ -6251,7 +6251,7 @@
   },
   {
     "Name": "Gengar",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 11,
     "HP": 5414,
@@ -6261,7 +6261,7 @@
   },
   {
     "Name": "Gengar",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 12,
     "HP": 5747,
@@ -6271,7 +6271,7 @@
   },
   {
     "Name": "Gengar",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 13,
     "HP": 6146,
@@ -6281,7 +6281,7 @@
   },
   {
     "Name": "Gengar",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 14,
     "HP": 6625,
@@ -6291,7 +6291,7 @@
   },
   {
     "Name": "Gengar",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 15,
     "HP": 7200,
@@ -6301,7 +6301,7 @@
   },
   {
     "Name": "Gardevoir",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 1,
     "HP": 3200,
@@ -6311,7 +6311,7 @@
   },
   {
     "Name": "Gardevoir",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 2,
     "HP": 3245,
@@ -6321,7 +6321,7 @@
   },
   {
     "Name": "Gardevoir",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 3,
     "HP": 3299,
@@ -6331,7 +6331,7 @@
   },
   {
     "Name": "Gardevoir",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 4,
     "HP": 3363,
@@ -6341,7 +6341,7 @@
   },
   {
     "Name": "Gardevoir",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 5,
     "HP": 3596,
@@ -6351,7 +6351,7 @@
   },
   {
     "Name": "Gardevoir",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 6,
     "HP": 3689,
@@ -6361,7 +6361,7 @@
   },
   {
     "Name": "Gardevoir",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 7,
     "HP": 4113,
@@ -6371,7 +6371,7 @@
   },
   {
     "Name": "Gardevoir",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 8,
     "HP": 4247,
@@ -6381,7 +6381,7 @@
   },
   {
     "Name": "Gardevoir",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 9,
     "HP": 4408,
@@ -6391,7 +6391,7 @@
   },
   {
     "Name": "Gardevoir",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 10,
     "HP": 4601,
@@ -6401,7 +6401,7 @@
   },
   {
     "Name": "Gardevoir",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 11,
     "HP": 4832,
@@ -6411,7 +6411,7 @@
   },
   {
     "Name": "Gardevoir",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 12,
     "HP": 5109,
@@ -6421,7 +6421,7 @@
   },
   {
     "Name": "Gardevoir",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 13,
     "HP": 5442,
@@ -6431,7 +6431,7 @@
   },
   {
     "Name": "Gardevoir",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 14,
     "HP": 5841,
@@ -6441,7 +6441,7 @@
   },
   {
     "Name": "Gardevoir",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 15,
     "HP": 6320,
@@ -6451,7 +6451,7 @@
   },
   {
     "Name": "Garchomp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 1,
     "HP": 3050,
@@ -6461,7 +6461,7 @@
   },
   {
     "Name": "Garchomp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 2,
     "HP": 3117,
@@ -6471,7 +6471,7 @@
   },
   {
     "Name": "Garchomp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 3,
     "HP": 3198,
@@ -6481,7 +6481,7 @@
   },
   {
     "Name": "Garchomp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 4,
     "HP": 3295,
@@ -6491,7 +6491,7 @@
   },
   {
     "Name": "Garchomp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 5,
     "HP": 3647,
@@ -6501,7 +6501,7 @@
   },
   {
     "Name": "Garchomp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 6,
     "HP": 3787,
@@ -6511,7 +6511,7 @@
   },
   {
     "Name": "Garchomp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 7,
     "HP": 3955,
@@ -6521,7 +6521,7 @@
   },
   {
     "Name": "Garchomp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 8,
     "HP": 4157,
@@ -6531,7 +6531,7 @@
   },
   {
     "Name": "Garchomp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 9,
     "HP": 4869,
@@ -6541,7 +6541,7 @@
   },
   {
     "Name": "Garchomp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 10,
     "HP": 5159,
@@ -6551,7 +6551,7 @@
   },
   {
     "Name": "Garchomp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 11,
     "HP": 5507,
@@ -6561,7 +6561,7 @@
   },
   {
     "Name": "Garchomp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 12,
     "HP": 5925,
@@ -6571,7 +6571,7 @@
   },
   {
     "Name": "Garchomp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 13,
     "HP": 6426,
@@ -6581,7 +6581,7 @@
   },
   {
     "Name": "Garchomp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 14,
     "HP": 7028,
@@ -6591,7 +6591,7 @@
   },
   {
     "Name": "Garchomp",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 15,
     "HP": 7750,
@@ -6601,7 +6601,7 @@
   },
   {
     "Name": "Rapidash",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 1,
     "HP": 3300,
@@ -6611,7 +6611,7 @@
   },
   {
     "Name": "Rapidash",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 2,
     "HP": 3364,
@@ -6621,7 +6621,7 @@
   },
   {
     "Name": "Rapidash",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 3,
     "HP": 3441,
@@ -6631,7 +6631,7 @@
   },
   {
     "Name": "Rapidash",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 4,
     "HP": 3534,
@@ -6641,7 +6641,7 @@
   },
   {
     "Name": "Rapidash",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 5,
     "HP": 4321,
@@ -6651,7 +6651,7 @@
   },
   {
     "Name": "Rapidash",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 6,
     "HP": 4455,
@@ -6661,7 +6661,7 @@
   },
   {
     "Name": "Rapidash",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 7,
     "HP": 4616,
@@ -6671,7 +6671,7 @@
   },
   {
     "Name": "Rapidash",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 8,
     "HP": 4809,
@@ -6681,7 +6681,7 @@
   },
   {
     "Name": "Rapidash",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 9,
     "HP": 5041,
@@ -6691,7 +6691,7 @@
   },
   {
     "Name": "Rapidash",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 10,
     "HP": 5319,
@@ -6701,7 +6701,7 @@
   },
   {
     "Name": "Rapidash",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 11,
     "HP": 5653,
@@ -6711,7 +6711,7 @@
   },
   {
     "Name": "Rapidash",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 12,
     "HP": 6053,
@@ -6721,7 +6721,7 @@
   },
   {
     "Name": "Rapidash",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 13,
     "HP": 6533,
@@ -6731,7 +6731,7 @@
   },
   {
     "Name": "Rapidash",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 14,
     "HP": 7109,
@@ -6741,7 +6741,7 @@
   },
   {
     "Name": "Rapidash",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 15,
     "HP": 7800,
@@ -6751,7 +6751,7 @@
   },
   {
     "Name": "Falinks",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 1,
     "HP": 3200,
@@ -6761,7 +6761,7 @@
   },
   {
     "Name": "Falinks",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 2,
     "HP": 3371,
@@ -6771,7 +6771,7 @@
   },
   {
     "Name": "Falinks",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 3,
     "HP": 3559,
@@ -6781,7 +6781,7 @@
   },
   {
     "Name": "Falinks",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 4,
     "HP": 3766,
@@ -6791,7 +6791,7 @@
   },
   {
     "Name": "Falinks",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 5,
     "HP": 3993,
@@ -6801,7 +6801,7 @@
   },
   {
     "Name": "Falinks",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 6,
     "HP": 4243,
@@ -6811,7 +6811,7 @@
   },
   {
     "Name": "Falinks",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 7,
     "HP": 4518,
@@ -6821,7 +6821,7 @@
   },
   {
     "Name": "Falinks",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 8,
     "HP": 4821,
@@ -6831,7 +6831,7 @@
   },
   {
     "Name": "Falinks",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 9,
     "HP": 5155,
@@ -6841,7 +6841,7 @@
   },
   {
     "Name": "Falinks",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 10,
     "HP": 5523,
@@ -6851,7 +6851,7 @@
   },
   {
     "Name": "Falinks",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 11,
     "HP": 5928,
@@ -6861,7 +6861,7 @@
   },
   {
     "Name": "Falinks",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 12,
     "HP": 6374,
@@ -6871,7 +6871,7 @@
   },
   {
     "Name": "Falinks",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 13,
     "HP": 6865,
@@ -6881,7 +6881,7 @@
   },
   {
     "Name": "Falinks",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 14,
     "HP": 7405,
@@ -6891,7 +6891,7 @@
   },
   {
     "Name": "Falinks",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 15,
     "HP": 8000,
@@ -6901,7 +6901,7 @@
   },
   {
     "Name": "Espeon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 1,
     "HP": 3200,
@@ -6911,7 +6911,7 @@
   },
   {
     "Name": "Espeon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 2,
     "HP": 3269,
@@ -6921,7 +6921,7 @@
   },
   {
     "Name": "Espeon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 3,
     "HP": 3349,
@@ -6931,7 +6931,7 @@
   },
   {
     "Name": "Espeon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 4,
     "HP": 3753,
@@ -6941,7 +6941,7 @@
   },
   {
     "Name": "Espeon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 5,
     "HP": 3858,
@@ -6951,7 +6951,7 @@
   },
   {
     "Name": "Espeon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 6,
     "HP": 3979,
@@ -6961,7 +6961,7 @@
   },
   {
     "Name": "Espeon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 7,
     "HP": 4118,
@@ -6971,7 +6971,7 @@
   },
   {
     "Name": "Espeon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 8,
     "HP": 4278,
@@ -6981,7 +6981,7 @@
   },
   {
     "Name": "Espeon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 9,
     "HP": 4462,
@@ -6991,7 +6991,7 @@
   },
   {
     "Name": "Espeon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 10,
     "HP": 4674,
@@ -7001,7 +7001,7 @@
   },
   {
     "Name": "Espeon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 11,
     "HP": 4918,
@@ -7011,7 +7011,7 @@
   },
   {
     "Name": "Espeon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 12,
     "HP": 5199,
@@ -7021,7 +7021,7 @@
   },
   {
     "Name": "Espeon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 13,
     "HP": 5522,
@@ -7031,7 +7031,7 @@
   },
   {
     "Name": "Espeon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 14,
     "HP": 5893,
@@ -7041,7 +7041,7 @@
   },
   {
     "Name": "Espeon",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 15,
     "HP": 6320,
@@ -7051,7 +7051,7 @@
   },
   {
     "Name": "Eldegoss",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 1,
     "HP": 3278,
@@ -7061,7 +7061,7 @@
   },
   {
     "Name": "Eldegoss",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 2,
     "HP": 3383,
@@ -7071,7 +7071,7 @@
   },
   {
     "Name": "Eldegoss",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 3,
     "HP": 3503,
@@ -7081,7 +7081,7 @@
   },
   {
     "Name": "Eldegoss",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 4,
     "HP": 4114,
@@ -7091,7 +7091,7 @@
   },
   {
     "Name": "Eldegoss",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 5,
     "HP": 4274,
@@ -7101,7 +7101,7 @@
   },
   {
     "Name": "Eldegoss",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 6,
     "HP": 4457,
@@ -7111,7 +7111,7 @@
   },
   {
     "Name": "Eldegoss",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 7,
     "HP": 4668,
@@ -7121,7 +7121,7 @@
   },
   {
     "Name": "Eldegoss",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 8,
     "HP": 4911,
@@ -7131,7 +7131,7 @@
   },
   {
     "Name": "Eldegoss",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 9,
     "HP": 5190,
@@ -7141,7 +7141,7 @@
   },
   {
     "Name": "Eldegoss",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 10,
     "HP": 5511,
@@ -7151,7 +7151,7 @@
   },
   {
     "Name": "Eldegoss",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 11,
     "HP": 5880,
@@ -7161,7 +7161,7 @@
   },
   {
     "Name": "Eldegoss",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 12,
     "HP": 6305,
@@ -7171,7 +7171,7 @@
   },
   {
     "Name": "Eldegoss",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 13,
     "HP": 6794,
@@ -7181,7 +7181,7 @@
   },
   {
     "Name": "Eldegoss",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 14,
     "HP": 7356,
@@ -7191,7 +7191,7 @@
   },
   {
     "Name": "Eldegoss",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 15,
     "HP": 8002,
@@ -7201,7 +7201,7 @@
   },
   {
     "Name": "Duraludon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 1,
     "HP": 3000,
@@ -7211,7 +7211,7 @@
   },
   {
     "Name": "Duraludon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 2,
     "HP": 3085,
@@ -7221,7 +7221,7 @@
   },
   {
     "Name": "Duraludon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 3,
     "HP": 3179,
@@ -7231,7 +7231,7 @@
   },
   {
     "Name": "Duraludon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 4,
     "HP": 3282,
@@ -7241,7 +7241,7 @@
   },
   {
     "Name": "Duraludon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 5,
     "HP": 3395,
@@ -7251,7 +7251,7 @@
   },
   {
     "Name": "Duraludon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 6,
     "HP": 3520,
@@ -7261,7 +7261,7 @@
   },
   {
     "Name": "Duraludon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 7,
     "HP": 3657,
@@ -7271,7 +7271,7 @@
   },
   {
     "Name": "Duraludon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 8,
     "HP": 3808,
@@ -7281,7 +7281,7 @@
   },
   {
     "Name": "Duraludon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 9,
     "HP": 3975,
@@ -7291,7 +7291,7 @@
   },
   {
     "Name": "Duraludon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 10,
     "HP": 4159,
@@ -7301,7 +7301,7 @@
   },
   {
     "Name": "Duraludon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 11,
     "HP": 4362,
@@ -7311,7 +7311,7 @@
   },
   {
     "Name": "Duraludon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 12,
     "HP": 4585,
@@ -7321,7 +7321,7 @@
   },
   {
     "Name": "Duraludon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 13,
     "HP": 4830,
@@ -7331,7 +7331,7 @@
   },
   {
     "Name": "Duraludon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 14,
     "HP": 5100,
@@ -7341,7 +7341,7 @@
   },
   {
     "Name": "Duraludon",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 15,
     "HP": 5397,
@@ -7351,7 +7351,7 @@
   },
   {
     "Name": "Dragonite",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 1,
     "HP": 3050,
@@ -7361,7 +7361,7 @@
   },
   {
     "Name": "Dragonite",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 2,
     "HP": 3117,
@@ -7371,7 +7371,7 @@
   },
   {
     "Name": "Dragonite",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 3,
     "HP": 3198,
@@ -7381,7 +7381,7 @@
   },
   {
     "Name": "Dragonite",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 4,
     "HP": 3295,
@@ -7391,7 +7391,7 @@
   },
   {
     "Name": "Dragonite",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 5,
     "HP": 3647,
@@ -7401,7 +7401,7 @@
   },
   {
     "Name": "Dragonite",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 6,
     "HP": 3787,
@@ -7411,7 +7411,7 @@
   },
   {
     "Name": "Dragonite",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 7,
     "HP": 3955,
@@ -7421,7 +7421,7 @@
   },
   {
     "Name": "Dragonite",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 8,
     "HP": 4627,
@@ -7431,7 +7431,7 @@
   },
   {
     "Name": "Dragonite",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 9,
     "HP": 4869,
@@ -7441,7 +7441,7 @@
   },
   {
     "Name": "Dragonite",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 10,
     "HP": 5159,
@@ -7451,7 +7451,7 @@
   },
   {
     "Name": "Dragonite",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 11,
     "HP": 5507,
@@ -7461,7 +7461,7 @@
   },
   {
     "Name": "Dragonite",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 12,
     "HP": 5925,
@@ -7471,7 +7471,7 @@
   },
   {
     "Name": "Dragonite",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 13,
     "HP": 6426,
@@ -7481,7 +7481,7 @@
   },
   {
     "Name": "Dragonite",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 14,
     "HP": 7028,
@@ -7491,7 +7491,7 @@
   },
   {
     "Name": "Dragonite",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 15,
     "HP": 7750,
@@ -7501,7 +7501,7 @@
   },
   {
     "Name": "Dragapult",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 1,
     "HP": 3000,
@@ -7511,7 +7511,7 @@
   },
   {
     "Name": "Dragapult",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 2,
     "HP": 3036,
@@ -7521,7 +7521,7 @@
   },
   {
     "Name": "Dragapult",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 3,
     "HP": 3079,
@@ -7531,7 +7531,7 @@
   },
   {
     "Name": "Dragapult",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 4,
     "HP": 3131,
@@ -7541,7 +7541,7 @@
   },
   {
     "Name": "Dragapult",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 5,
     "HP": 3318,
@@ -7551,7 +7551,7 @@
   },
   {
     "Name": "Dragapult",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 6,
     "HP": 3393,
@@ -7561,7 +7561,7 @@
   },
   {
     "Name": "Dragapult",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 7,
     "HP": 3482,
@@ -7571,7 +7571,7 @@
   },
   {
     "Name": "Dragapult",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 8,
     "HP": 3589,
@@ -7581,7 +7581,7 @@
   },
   {
     "Name": "Dragapult",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 9,
     "HP": 3968,
@@ -7591,7 +7591,7 @@
   },
   {
     "Name": "Dragapult",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 10,
     "HP": 4122,
@@ -7601,7 +7601,7 @@
   },
   {
     "Name": "Dragapult",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 11,
     "HP": 4307,
@@ -7611,7 +7611,7 @@
   },
   {
     "Name": "Dragapult",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 12,
     "HP": 4529,
@@ -7621,7 +7621,7 @@
   },
   {
     "Name": "Dragapult",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 13,
     "HP": 4796,
@@ -7631,7 +7631,7 @@
   },
   {
     "Name": "Dragapult",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 14,
     "HP": 5116,
@@ -7641,7 +7641,7 @@
   },
   {
     "Name": "Dragapult",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 15,
     "HP": 5500,
@@ -7651,7 +7651,7 @@
   },
   {
     "Name": "Dodrio",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 1,
     "HP": 3050,
@@ -7661,7 +7661,7 @@
   },
   {
     "Name": "Dodrio",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 2,
     "HP": 3122,
@@ -7671,7 +7671,7 @@
   },
   {
     "Name": "Dodrio",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 3,
     "HP": 3205,
@@ -7681,7 +7681,7 @@
   },
   {
     "Name": "Dodrio",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 4,
     "HP": 3300,
@@ -7691,7 +7691,7 @@
   },
   {
     "Name": "Dodrio",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 5,
     "HP": 3735,
@@ -7701,7 +7701,7 @@
   },
   {
     "Name": "Dodrio",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 6,
     "HP": 3861,
@@ -7711,7 +7711,7 @@
   },
   {
     "Name": "Dodrio",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 7,
     "HP": 4006,
@@ -7721,7 +7721,7 @@
   },
   {
     "Name": "Dodrio",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 8,
     "HP": 4173,
@@ -7731,7 +7731,7 @@
   },
   {
     "Name": "Dodrio",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 9,
     "HP": 4365,
@@ -7741,7 +7741,7 @@
   },
   {
     "Name": "Dodrio",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 10,
     "HP": 4586,
@@ -7751,7 +7751,7 @@
   },
   {
     "Name": "Dodrio",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 11,
     "HP": 4840,
@@ -7761,7 +7761,7 @@
   },
   {
     "Name": "Dodrio",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 12,
     "HP": 5133,
@@ -7771,7 +7771,7 @@
   },
   {
     "Name": "Dodrio",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 13,
     "HP": 5469,
@@ -7781,7 +7781,7 @@
   },
   {
     "Name": "Dodrio",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 14,
     "HP": 5856,
@@ -7791,7 +7791,7 @@
   },
   {
     "Name": "Dodrio",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 15,
     "HP": 6300,
@@ -7801,7 +7801,7 @@
   },
   {
     "Name": "Delphox",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 1,
     "HP": 3300,
@@ -7811,7 +7811,7 @@
   },
   {
     "Name": "Delphox",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 2,
     "HP": 3343,
@@ -7821,7 +7821,7 @@
   },
   {
     "Name": "Delphox",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 3,
     "HP": 3394,
@@ -7831,7 +7831,7 @@
   },
   {
     "Name": "Delphox",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 4,
     "HP": 3605,
@@ -7841,7 +7841,7 @@
   },
   {
     "Name": "Delphox",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 5,
     "HP": 3679,
@@ -7851,7 +7851,7 @@
   },
   {
     "Name": "Delphox",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 6,
     "HP": 4067,
@@ -7861,7 +7861,7 @@
   },
   {
     "Name": "Delphox",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 7,
     "HP": 4174,
@@ -7871,7 +7871,7 @@
   },
   {
     "Name": "Delphox",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 8,
     "HP": 4302,
@@ -7881,7 +7881,7 @@
   },
   {
     "Name": "Delphox",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 9,
     "HP": 4456,
@@ -7891,7 +7891,7 @@
   },
   {
     "Name": "Delphox",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 10,
     "HP": 4641,
@@ -7901,7 +7901,7 @@
   },
   {
     "Name": "Delphox",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 11,
     "HP": 4863,
@@ -7911,7 +7911,7 @@
   },
   {
     "Name": "Delphox",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 12,
     "HP": 5129,
@@ -7921,7 +7921,7 @@
   },
   {
     "Name": "Delphox",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 13,
     "HP": 5448,
@@ -7931,7 +7931,7 @@
   },
   {
     "Name": "Delphox",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 14,
     "HP": 5831,
@@ -7941,7 +7941,7 @@
   },
   {
     "Name": "Delphox",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 15,
     "HP": 6290,
@@ -7951,7 +7951,7 @@
   },
   {
     "Name": "Decidueye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 1,
     "HP": 3000,
@@ -7961,7 +7961,7 @@
   },
   {
     "Name": "Decidueye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 2,
     "HP": 3031,
@@ -7971,7 +7971,7 @@
   },
   {
     "Name": "Decidueye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 3,
     "HP": 3068,
@@ -7981,7 +7981,7 @@
   },
   {
     "Name": "Decidueye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 4,
     "HP": 3112,
@@ -7991,7 +7991,7 @@
   },
   {
     "Name": "Decidueye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 5,
     "HP": 3273,
@@ -8001,7 +8001,7 @@
   },
   {
     "Name": "Decidueye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 6,
     "HP": 3337,
@@ -8011,7 +8011,7 @@
   },
   {
     "Name": "Decidueye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 7,
     "HP": 3629,
@@ -8021,7 +8021,7 @@
   },
   {
     "Name": "Decidueye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 8,
     "HP": 3721,
@@ -8031,7 +8031,7 @@
   },
   {
     "Name": "Decidueye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 9,
     "HP": 3832,
@@ -8041,7 +8041,7 @@
   },
   {
     "Name": "Decidueye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 10,
     "HP": 3965,
@@ -8051,7 +8051,7 @@
   },
   {
     "Name": "Decidueye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 11,
     "HP": 4125,
@@ -8061,7 +8061,7 @@
   },
   {
     "Name": "Decidueye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 12,
     "HP": 4316,
@@ -8071,7 +8071,7 @@
   },
   {
     "Name": "Decidueye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 13,
     "HP": 4546,
@@ -8081,7 +8081,7 @@
   },
   {
     "Name": "Decidueye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 14,
     "HP": 4821,
@@ -8091,7 +8091,7 @@
   },
   {
     "Name": "Decidueye",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 15,
     "HP": 5152,
@@ -8101,7 +8101,7 @@
   },
   {
     "Name": "Darkrai",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 1,
     "HP": 3600,
@@ -8111,7 +8111,7 @@
   },
   {
     "Name": "Darkrai",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 2,
     "HP": 3739,
@@ -8121,7 +8121,7 @@
   },
   {
     "Name": "Darkrai",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 3,
     "HP": 3892,
@@ -8131,7 +8131,7 @@
   },
   {
     "Name": "Darkrai",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 4,
     "HP": 4060,
@@ -8141,7 +8141,7 @@
   },
   {
     "Name": "Darkrai",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 5,
     "HP": 4244,
@@ -8151,7 +8151,7 @@
   },
   {
     "Name": "Darkrai",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 6,
     "HP": 4447,
@@ -8161,7 +8161,7 @@
   },
   {
     "Name": "Darkrai",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 7,
     "HP": 4670,
@@ -8171,7 +8171,7 @@
   },
   {
     "Name": "Darkrai",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 8,
     "HP": 4916,
@@ -8181,7 +8181,7 @@
   },
   {
     "Name": "Darkrai",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 9,
     "HP": 5187,
@@ -8191,7 +8191,7 @@
   },
   {
     "Name": "Darkrai",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 10,
     "HP": 5486,
@@ -8201,7 +8201,7 @@
   },
   {
     "Name": "Darkrai",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 11,
     "HP": 5816,
@@ -8211,7 +8211,7 @@
   },
   {
     "Name": "Darkrai",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 12,
     "HP": 6178,
@@ -8221,7 +8221,7 @@
   },
   {
     "Name": "Darkrai",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 13,
     "HP": 6577,
@@ -8231,7 +8231,7 @@
   },
   {
     "Name": "Darkrai",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 14,
     "HP": 7016,
@@ -8241,7 +8241,7 @@
   },
   {
     "Name": "Darkrai",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Speedster",
     "Level": 15,
     "HP": 7500,
@@ -8251,7 +8251,7 @@
   },
   {
     "Name": "Crustle",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 1,
     "HP": 3300,
@@ -8261,7 +8261,7 @@
   },
   {
     "Name": "Crustle",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 2,
     "HP": 3447,
@@ -8271,7 +8271,7 @@
   },
   {
     "Name": "Crustle",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 3,
     "HP": 3615,
@@ -8281,7 +8281,7 @@
   },
   {
     "Name": "Crustle",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 4,
     "HP": 4469,
@@ -8291,7 +8291,7 @@
   },
   {
     "Name": "Crustle",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 5,
     "HP": 4692,
@@ -8301,7 +8301,7 @@
   },
   {
     "Name": "Crustle",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 6,
     "HP": 4948,
@@ -8311,7 +8311,7 @@
   },
   {
     "Name": "Crustle",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 7,
     "HP": 5242,
@@ -8321,7 +8321,7 @@
   },
   {
     "Name": "Crustle",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 8,
     "HP": 5581,
@@ -8331,7 +8331,7 @@
   },
   {
     "Name": "Crustle",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 9,
     "HP": 5971,
@@ -8341,7 +8341,7 @@
   },
   {
     "Name": "Crustle",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 10,
     "HP": 6420,
@@ -8351,7 +8351,7 @@
   },
   {
     "Name": "Crustle",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 11,
     "HP": 6936,
@@ -8361,7 +8361,7 @@
   },
   {
     "Name": "Crustle",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 12,
     "HP": 7530,
@@ -8371,7 +8371,7 @@
   },
   {
     "Name": "Crustle",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 13,
     "HP": 8213,
@@ -8381,7 +8381,7 @@
   },
   {
     "Name": "Crustle",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 14,
     "HP": 8998,
@@ -8391,7 +8391,7 @@
   },
   {
     "Name": "Crustle",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Defender",
     "Level": 15,
     "HP": 9900,
@@ -8401,7 +8401,7 @@
   },
   {
     "Name": "Cramorant",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 1,
     "HP": 3292,
@@ -8411,7 +8411,7 @@
   },
   {
     "Name": "Cramorant",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 2,
     "HP": 3399,
@@ -8421,7 +8421,7 @@
   },
   {
     "Name": "Cramorant",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 3,
     "HP": 3517,
@@ -8431,7 +8431,7 @@
   },
   {
     "Name": "Cramorant",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 4,
     "HP": 3647,
@@ -8441,7 +8441,7 @@
   },
   {
     "Name": "Cramorant",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 5,
     "HP": 3789,
@@ -8451,7 +8451,7 @@
   },
   {
     "Name": "Cramorant",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 6,
     "HP": 3946,
@@ -8461,7 +8461,7 @@
   },
   {
     "Name": "Cramorant",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 7,
     "HP": 4118,
@@ -8471,7 +8471,7 @@
   },
   {
     "Name": "Cramorant",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 8,
     "HP": 4308,
@@ -8481,7 +8481,7 @@
   },
   {
     "Name": "Cramorant",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 9,
     "HP": 4517,
@@ -8491,7 +8491,7 @@
   },
   {
     "Name": "Cramorant",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 10,
     "HP": 4748,
@@ -8501,7 +8501,7 @@
   },
   {
     "Name": "Cramorant",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 11,
     "HP": 5002,
@@ -8511,7 +8511,7 @@
   },
   {
     "Name": "Cramorant",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 12,
     "HP": 5281,
@@ -8521,7 +8521,7 @@
   },
   {
     "Name": "Cramorant",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 13,
     "HP": 5589,
@@ -8531,7 +8531,7 @@
   },
   {
     "Name": "Cramorant",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 14,
     "HP": 5928,
@@ -8541,7 +8541,7 @@
   },
   {
     "Name": "Cramorant",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 15,
     "HP": 6301,
@@ -8551,7 +8551,7 @@
   },
   {
     "Name": "Comfey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 1,
     "HP": 3000,
@@ -8561,7 +8561,7 @@
   },
   {
     "Name": "Comfey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 2,
     "HP": 3089,
@@ -8571,7 +8571,7 @@
   },
   {
     "Name": "Comfey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 3,
     "HP": 3187,
@@ -8581,7 +8581,7 @@
   },
   {
     "Name": "Comfey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 4,
     "HP": 3295,
@@ -8591,7 +8591,7 @@
   },
   {
     "Name": "Comfey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 5,
     "HP": 3413,
@@ -8601,7 +8601,7 @@
   },
   {
     "Name": "Comfey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 6,
     "HP": 3543,
@@ -8611,7 +8611,7 @@
   },
   {
     "Name": "Comfey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 7,
     "HP": 3686,
@@ -8621,7 +8621,7 @@
   },
   {
     "Name": "Comfey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 8,
     "HP": 3844,
@@ -8631,7 +8631,7 @@
   },
   {
     "Name": "Comfey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 9,
     "HP": 4018,
@@ -8641,7 +8641,7 @@
   },
   {
     "Name": "Comfey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 10,
     "HP": 4210,
@@ -8651,7 +8651,7 @@
   },
   {
     "Name": "Comfey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 11,
     "HP": 4421,
@@ -8661,7 +8661,7 @@
   },
   {
     "Name": "Comfey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 12,
     "HP": 4653,
@@ -8671,7 +8671,7 @@
   },
   {
     "Name": "Comfey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 13,
     "HP": 4909,
@@ -8681,7 +8681,7 @@
   },
   {
     "Name": "Comfey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 14,
     "HP": 5190,
@@ -8691,7 +8691,7 @@
   },
   {
     "Name": "Comfey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 15,
     "HP": 5500,
@@ -8701,7 +8701,7 @@
   },
   {
     "Name": "Clefable",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 1,
     "HP": 3300,
@@ -8711,7 +8711,7 @@
   },
   {
     "Name": "Clefable",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 2,
     "HP": 3404,
@@ -8721,7 +8721,7 @@
   },
   {
     "Name": "Clefable",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 3,
     "HP": 3524,
@@ -8731,7 +8731,7 @@
   },
   {
     "Name": "Clefable",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 4,
     "HP": 4132,
@@ -8741,7 +8741,7 @@
   },
   {
     "Name": "Clefable",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 5,
     "HP": 4291,
@@ -8751,7 +8751,7 @@
   },
   {
     "Name": "Clefable",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 6,
     "HP": 4473,
@@ -8761,7 +8761,7 @@
   },
   {
     "Name": "Clefable",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 7,
     "HP": 4683,
@@ -8771,7 +8771,7 @@
   },
   {
     "Name": "Clefable",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 8,
     "HP": 4924,
@@ -8781,7 +8781,7 @@
   },
   {
     "Name": "Clefable",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 9,
     "HP": 5202,
@@ -8791,7 +8791,7 @@
   },
   {
     "Name": "Clefable",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 10,
     "HP": 5521,
@@ -8801,7 +8801,7 @@
   },
   {
     "Name": "Clefable",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 11,
     "HP": 5889,
@@ -8811,7 +8811,7 @@
   },
   {
     "Name": "Clefable",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 12,
     "HP": 6312,
@@ -8821,7 +8821,7 @@
   },
   {
     "Name": "Clefable",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 13,
     "HP": 6798,
@@ -8831,7 +8831,7 @@
   },
   {
     "Name": "Clefable",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 14,
     "HP": 7357,
@@ -8841,7 +8841,7 @@
   },
   {
     "Name": "Clefable",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 15,
     "HP": 8000,
@@ -8851,7 +8851,7 @@
   },
   {
     "Name": "Cinderace",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 1,
     "HP": 3000,
@@ -8861,7 +8861,7 @@
   },
   {
     "Name": "Cinderace",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 2,
     "HP": 3034,
@@ -8871,7 +8871,7 @@
   },
   {
     "Name": "Cinderace",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 3,
     "HP": 3075,
@@ -8881,7 +8881,7 @@
   },
   {
     "Name": "Cinderace",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 4,
     "HP": 3125,
@@ -8891,7 +8891,7 @@
   },
   {
     "Name": "Cinderace",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 5,
     "HP": 3305,
@@ -8901,7 +8901,7 @@
   },
   {
     "Name": "Cinderace",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 6,
     "HP": 3376,
@@ -8911,7 +8911,7 @@
   },
   {
     "Name": "Cinderace",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 7,
     "HP": 3702,
@@ -8921,7 +8921,7 @@
   },
   {
     "Name": "Cinderace",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 8,
     "HP": 3805,
@@ -8931,7 +8931,7 @@
   },
   {
     "Name": "Cinderace",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 9,
     "HP": 3928,
@@ -8941,7 +8941,7 @@
   },
   {
     "Name": "Cinderace",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 10,
     "HP": 4076,
@@ -8951,7 +8951,7 @@
   },
   {
     "Name": "Cinderace",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 11,
     "HP": 4254,
@@ -8961,7 +8961,7 @@
   },
   {
     "Name": "Cinderace",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 12,
     "HP": 4467,
@@ -8971,7 +8971,7 @@
   },
   {
     "Name": "Cinderace",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 13,
     "HP": 4723,
@@ -8981,7 +8981,7 @@
   },
   {
     "Name": "Cinderace",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 14,
     "HP": 5030,
@@ -8991,7 +8991,7 @@
   },
   {
     "Name": "Cinderace",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Attacker",
     "Level": 15,
     "HP": 5399,
@@ -9001,7 +9001,7 @@
   },
   {
     "Name": "Charizard",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 1,
     "HP": 3200,
@@ -9011,7 +9011,7 @@
   },
   {
     "Name": "Charizard",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 2,
     "HP": 3264,
@@ -9021,7 +9021,7 @@
   },
   {
     "Name": "Charizard",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 3,
     "HP": 3341,
@@ -9031,7 +9031,7 @@
   },
   {
     "Name": "Charizard",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 4,
     "HP": 3434,
@@ -9041,7 +9041,7 @@
   },
   {
     "Name": "Charizard",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 5,
     "HP": 3771,
@@ -9051,7 +9051,7 @@
   },
   {
     "Name": "Charizard",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 6,
     "HP": 3905,
@@ -9061,7 +9061,7 @@
   },
   {
     "Name": "Charizard",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 7,
     "HP": 4516,
@@ -9071,7 +9071,7 @@
   },
   {
     "Name": "Charizard",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 8,
     "HP": 4709,
@@ -9081,7 +9081,7 @@
   },
   {
     "Name": "Charizard",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 9,
     "HP": 4941,
@@ -9091,7 +9091,7 @@
   },
   {
     "Name": "Charizard",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 10,
     "HP": 5219,
@@ -9101,7 +9101,7 @@
   },
   {
     "Name": "Charizard",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 11,
     "HP": 5553,
@@ -9111,7 +9111,7 @@
   },
   {
     "Name": "Charizard",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 12,
     "HP": 5953,
@@ -9121,7 +9121,7 @@
   },
   {
     "Name": "Charizard",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 13,
     "HP": 6433,
@@ -9131,7 +9131,7 @@
   },
   {
     "Name": "Charizard",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 14,
     "HP": 7009,
@@ -9141,7 +9141,7 @@
   },
   {
     "Name": "Charizard",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 15,
     "HP": 7700,
@@ -9151,7 +9151,7 @@
   },
   {
     "Name": "Chandelure",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 1,
     "HP": 3200,
@@ -9161,7 +9161,7 @@
   },
   {
     "Name": "Chandelure",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 2,
     "HP": 3244,
@@ -9171,7 +9171,7 @@
   },
   {
     "Name": "Chandelure",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 3,
     "HP": 3297,
@@ -9181,7 +9181,7 @@
   },
   {
     "Name": "Chandelure",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 4,
     "HP": 3361,
@@ -9191,7 +9191,7 @@
   },
   {
     "Name": "Chandelure",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 5,
     "HP": 3593,
@@ -9201,7 +9201,7 @@
   },
   {
     "Name": "Chandelure",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 6,
     "HP": 3685,
@@ -9211,7 +9211,7 @@
   },
   {
     "Name": "Chandelure",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 7,
     "HP": 4106,
@@ -9221,7 +9221,7 @@
   },
   {
     "Name": "Chandelure",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 8,
     "HP": 4239,
@@ -9231,7 +9231,7 @@
   },
   {
     "Name": "Chandelure",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 9,
     "HP": 4399,
@@ -9241,7 +9241,7 @@
   },
   {
     "Name": "Chandelure",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 10,
     "HP": 4591,
@@ -9251,7 +9251,7 @@
   },
   {
     "Name": "Chandelure",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 11,
     "HP": 4821,
@@ -9261,7 +9261,7 @@
   },
   {
     "Name": "Chandelure",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 12,
     "HP": 5097,
@@ -9271,7 +9271,7 @@
   },
   {
     "Name": "Chandelure",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 13,
     "HP": 5428,
@@ -9281,7 +9281,7 @@
   },
   {
     "Name": "Chandelure",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 14,
     "HP": 5825,
@@ -9291,7 +9291,7 @@
   },
   {
     "Name": "Chandelure",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 15,
     "HP": 6300,
@@ -9301,7 +9301,7 @@
   },
   {
     "Name": "Ceruledge",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 1,
     "HP": 3250,
@@ -9311,7 +9311,7 @@
   },
   {
     "Name": "Ceruledge",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 2,
     "HP": 3352,
@@ -9321,7 +9321,7 @@
   },
   {
     "Name": "Ceruledge",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 3,
     "HP": 3469,
@@ -9331,7 +9331,7 @@
   },
   {
     "Name": "Ceruledge",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 4,
     "HP": 3604,
@@ -9341,7 +9341,7 @@
   },
   {
     "Name": "Ceruledge",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 5,
     "HP": 4219,
@@ -9351,7 +9351,7 @@
   },
   {
     "Name": "Ceruledge",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 6,
     "HP": 4398,
@@ -9361,7 +9361,7 @@
   },
   {
     "Name": "Ceruledge",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 7,
     "HP": 4603,
@@ -9371,7 +9371,7 @@
   },
   {
     "Name": "Ceruledge",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 8,
     "HP": 4839,
@@ -9381,7 +9381,7 @@
   },
   {
     "Name": "Ceruledge",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 9,
     "HP": 5111,
@@ -9391,7 +9391,7 @@
   },
   {
     "Name": "Ceruledge",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 10,
     "HP": 5424,
@@ -9401,7 +9401,7 @@
   },
   {
     "Name": "Ceruledge",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 11,
     "HP": 5784,
@@ -9411,7 +9411,7 @@
   },
   {
     "Name": "Ceruledge",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 12,
     "HP": 6198,
@@ -9421,7 +9421,7 @@
   },
   {
     "Name": "Ceruledge",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 13,
     "HP": 6674,
@@ -9431,7 +9431,7 @@
   },
   {
     "Name": "Ceruledge",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 14,
     "HP": 7221,
@@ -9441,7 +9441,7 @@
   },
   {
     "Name": "Ceruledge",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 15,
     "HP": 7850,
@@ -9451,7 +9451,7 @@
   },
   {
     "Name": "Buzzwole",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 1,
     "HP": 3250,
@@ -9461,7 +9461,7 @@
   },
   {
     "Name": "Buzzwole",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 2,
     "HP": 3412,
@@ -9471,7 +9471,7 @@
   },
   {
     "Name": "Buzzwole",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 3,
     "HP": 3590,
@@ -9481,7 +9481,7 @@
   },
   {
     "Name": "Buzzwole",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 4,
     "HP": 3786,
@@ -9491,7 +9491,7 @@
   },
   {
     "Name": "Buzzwole",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 5,
     "HP": 4001,
@@ -9501,7 +9501,7 @@
   },
   {
     "Name": "Buzzwole",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 6,
     "HP": 4238,
@@ -9511,7 +9511,7 @@
   },
   {
     "Name": "Buzzwole",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 7,
     "HP": 4499,
@@ -9521,7 +9521,7 @@
   },
   {
     "Name": "Buzzwole",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 8,
     "HP": 4786,
@@ -9531,7 +9531,7 @@
   },
   {
     "Name": "Buzzwole",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 9,
     "HP": 5103,
@@ -9541,7 +9541,7 @@
   },
   {
     "Name": "Buzzwole",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 10,
     "HP": 5452,
@@ -9551,7 +9551,7 @@
   },
   {
     "Name": "Buzzwole",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 11,
     "HP": 5836,
@@ -9561,7 +9561,7 @@
   },
   {
     "Name": "Buzzwole",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 12,
     "HP": 6259,
@@ -9571,7 +9571,7 @@
   },
   {
     "Name": "Buzzwole",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 13,
     "HP": 6724,
@@ -9581,7 +9581,7 @@
   },
   {
     "Name": "Buzzwole",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 14,
     "HP": 7236,
@@ -9591,7 +9591,7 @@
   },
   {
     "Name": "Buzzwole",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 15,
     "HP": 7800,
@@ -9601,7 +9601,7 @@
   },
   {
     "Name": "Blissey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 1,
     "HP": 3278,
@@ -9611,7 +9611,7 @@
   },
   {
     "Name": "Blissey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 2,
     "HP": 3427,
@@ -9621,7 +9621,7 @@
   },
   {
     "Name": "Blissey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 3,
     "HP": 3598,
@@ -9631,7 +9631,7 @@
   },
   {
     "Name": "Blissey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 4,
     "HP": 4467,
@@ -9641,7 +9641,7 @@
   },
   {
     "Name": "Blissey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 5,
     "HP": 4694,
@@ -9651,7 +9651,7 @@
   },
   {
     "Name": "Blissey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 6,
     "HP": 4955,
@@ -9661,7 +9661,7 @@
   },
   {
     "Name": "Blissey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 7,
     "HP": 5255,
@@ -9671,7 +9671,7 @@
   },
   {
     "Name": "Blissey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 8,
     "HP": 5600,
@@ -9681,7 +9681,7 @@
   },
   {
     "Name": "Blissey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 9,
     "HP": 5997,
@@ -9691,7 +9691,7 @@
   },
   {
     "Name": "Blissey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 10,
     "HP": 6454,
@@ -9701,7 +9701,7 @@
   },
   {
     "Name": "Blissey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 11,
     "HP": 6980,
@@ -9711,7 +9711,7 @@
   },
   {
     "Name": "Blissey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 12,
     "HP": 7585,
@@ -9721,7 +9721,7 @@
   },
   {
     "Name": "Blissey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 13,
     "HP": 8281,
@@ -9731,7 +9731,7 @@
   },
   {
     "Name": "Blissey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 14,
     "HP": 9081,
@@ -9741,7 +9741,7 @@
   },
   {
     "Name": "Blissey",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Supporter",
     "Level": 15,
     "HP": 10000,
@@ -9751,7 +9751,7 @@
   },
   {
     "Name": "Blaziken",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 1,
     "HP": 3250,
@@ -9761,7 +9761,7 @@
   },
   {
     "Name": "Blaziken",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 2,
     "HP": 3315,
@@ -9771,7 +9771,7 @@
   },
   {
     "Name": "Blaziken",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 3,
     "HP": 3393,
@@ -9781,7 +9781,7 @@
   },
   {
     "Name": "Blaziken",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 4,
     "HP": 3487,
@@ -9791,7 +9791,7 @@
   },
   {
     "Name": "Blaziken",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 5,
     "HP": 3827,
@@ -9801,7 +9801,7 @@
   },
   {
     "Name": "Blaziken",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 6,
     "HP": 3963,
@@ -9811,7 +9811,7 @@
   },
   {
     "Name": "Blaziken",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 7,
     "HP": 4581,
@@ -9821,7 +9821,7 @@
   },
   {
     "Name": "Blaziken",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 8,
     "HP": 4776,
@@ -9831,7 +9831,7 @@
   },
   {
     "Name": "Blaziken",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 9,
     "HP": 5010,
@@ -9841,7 +9841,7 @@
   },
   {
     "Name": "Blaziken",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 10,
     "HP": 5291,
@@ -9851,7 +9851,7 @@
   },
   {
     "Name": "Blaziken",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 11,
     "HP": 5628,
@@ -9861,7 +9861,7 @@
   },
   {
     "Name": "Blaziken",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 12,
     "HP": 6033,
@@ -9871,7 +9871,7 @@
   },
   {
     "Name": "Blaziken",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 13,
     "HP": 6518,
@@ -9881,7 +9881,7 @@
   },
   {
     "Name": "Blaziken",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 14,
     "HP": 7101,
@@ -9891,7 +9891,7 @@
   },
   {
     "Name": "Blaziken",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 15,
     "HP": 7800,
@@ -9901,7 +9901,7 @@
   },
   {
     "Name": "Blastoise",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 1,
     "HP": 3225,
@@ -9911,7 +9911,7 @@
   },
   {
     "Name": "Blastoise",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 2,
     "HP": 3319,
@@ -9921,7 +9921,7 @@
   },
   {
     "Name": "Blastoise",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 3,
     "HP": 3432,
@@ -9931,7 +9931,7 @@
   },
   {
     "Name": "Blastoise",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 4,
     "HP": 3568,
@@ -9941,7 +9941,7 @@
   },
   {
     "Name": "Blastoise",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 5,
     "HP": 4060,
@@ -9951,7 +9951,7 @@
   },
   {
     "Name": "Blastoise",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 6,
     "HP": 4256,
@@ -9961,7 +9961,7 @@
   },
   {
     "Name": "Blastoise",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 7,
     "HP": 5148,
@@ -9971,7 +9971,7 @@
   },
   {
     "Name": "Blastoise",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 8,
     "HP": 5430,
@@ -9981,7 +9981,7 @@
   },
   {
     "Name": "Blastoise",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 9,
     "HP": 5769,
@@ -9991,7 +9991,7 @@
   },
   {
     "Name": "Blastoise",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 10,
     "HP": 6175,
@@ -10001,7 +10001,7 @@
   },
   {
     "Name": "Blastoise",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 11,
     "HP": 6662,
@@ -10011,7 +10011,7 @@
   },
   {
     "Name": "Blastoise",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 12,
     "HP": 7247,
@@ -10021,7 +10021,7 @@
   },
   {
     "Name": "Blastoise",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 13,
     "HP": 7948,
@@ -10031,7 +10031,7 @@
   },
   {
     "Name": "Blastoise",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 14,
     "HP": 8790,
@@ -10041,7 +10041,7 @@
   },
   {
     "Name": "Blastoise",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Defender",
     "Level": 15,
     "HP": 9800,
@@ -10051,7 +10051,7 @@
   },
   {
     "Name": "Azumarill",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 1,
     "HP": 3250,
@@ -10061,7 +10061,7 @@
   },
   {
     "Name": "Azumarill",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 2,
     "HP": 3352,
@@ -10071,7 +10071,7 @@
   },
   {
     "Name": "Azumarill",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 3,
     "HP": 3469,
@@ -10081,7 +10081,7 @@
   },
   {
     "Name": "Azumarill",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 4,
     "HP": 4064,
@@ -10091,7 +10091,7 @@
   },
   {
     "Name": "Azumarill",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 5,
     "HP": 4219,
@@ -10101,7 +10101,7 @@
   },
   {
     "Name": "Azumarill",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 6,
     "HP": 4398,
@@ -10111,7 +10111,7 @@
   },
   {
     "Name": "Azumarill",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 7,
     "HP": 4603,
@@ -10121,7 +10121,7 @@
   },
   {
     "Name": "Azumarill",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 8,
     "HP": 4839,
@@ -10131,7 +10131,7 @@
   },
   {
     "Name": "Azumarill",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 9,
     "HP": 5111,
@@ -10141,7 +10141,7 @@
   },
   {
     "Name": "Azumarill",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 10,
     "HP": 5424,
@@ -10151,7 +10151,7 @@
   },
   {
     "Name": "Azumarill",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 11,
     "HP": 5784,
@@ -10161,7 +10161,7 @@
   },
   {
     "Name": "Azumarill",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 12,
     "HP": 6198,
@@ -10171,7 +10171,7 @@
   },
   {
     "Name": "Azumarill",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 13,
     "HP": 6674,
@@ -10181,7 +10181,7 @@
   },
   {
     "Name": "Azumarill",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 14,
     "HP": 7221,
@@ -10191,7 +10191,7 @@
   },
   {
     "Name": "Azumarill",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 15,
     "HP": 7850,
@@ -10201,7 +10201,7 @@
   },
   {
     "Name": "Armarouge",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 1,
     "HP": 3300,
@@ -10211,7 +10211,7 @@
   },
   {
     "Name": "Armarouge",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 2,
     "HP": 3387,
@@ -10221,7 +10221,7 @@
   },
   {
     "Name": "Armarouge",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 3,
     "HP": 3486,
@@ -10231,7 +10231,7 @@
   },
   {
     "Name": "Armarouge",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 4,
     "HP": 3600,
@@ -10241,7 +10241,7 @@
   },
   {
     "Name": "Armarouge",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 5,
     "HP": 4122,
@@ -10251,7 +10251,7 @@
   },
   {
     "Name": "Armarouge",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 6,
     "HP": 4273,
@@ -10261,7 +10261,7 @@
   },
   {
     "Name": "Armarouge",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 7,
     "HP": 4447,
@@ -10271,7 +10271,7 @@
   },
   {
     "Name": "Armarouge",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 8,
     "HP": 4647,
@@ -10281,7 +10281,7 @@
   },
   {
     "Name": "Armarouge",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 9,
     "HP": 4878,
@@ -10291,7 +10291,7 @@
   },
   {
     "Name": "Armarouge",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 10,
     "HP": 5143,
@@ -10301,7 +10301,7 @@
   },
   {
     "Name": "Armarouge",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 11,
     "HP": 5448,
@@ -10311,7 +10311,7 @@
   },
   {
     "Name": "Armarouge",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 12,
     "HP": 5799,
@@ -10321,7 +10321,7 @@
   },
   {
     "Name": "Armarouge",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 13,
     "HP": 6203,
@@ -10331,7 +10331,7 @@
   },
   {
     "Name": "Armarouge",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 14,
     "HP": 6667,
@@ -10341,7 +10341,7 @@
   },
   {
     "Name": "Armarouge",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 15,
     "HP": 7200,
@@ -10351,7 +10351,7 @@
   },
   {
     "Name": "Ninetales",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 1,
     "HP": 3197,
@@ -10361,7 +10361,7 @@
   },
   {
     "Name": "Ninetales",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 2,
     "HP": 3266,
@@ -10371,7 +10371,7 @@
   },
   {
     "Name": "Ninetales",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 3,
     "HP": 3345,
@@ -10381,7 +10381,7 @@
   },
   {
     "Name": "Ninetales",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 4,
     "HP": 3747,
@@ -10391,7 +10391,7 @@
   },
   {
     "Name": "Ninetales",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 5,
     "HP": 3852,
@@ -10401,7 +10401,7 @@
   },
   {
     "Name": "Ninetales",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 6,
     "HP": 3972,
@@ -10411,7 +10411,7 @@
   },
   {
     "Name": "Ninetales",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 7,
     "HP": 4110,
@@ -10421,7 +10421,7 @@
   },
   {
     "Name": "Ninetales",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 8,
     "HP": 4269,
@@ -10431,7 +10431,7 @@
   },
   {
     "Name": "Ninetales",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 9,
     "HP": 4452,
@@ -10441,7 +10441,7 @@
   },
   {
     "Name": "Ninetales",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 10,
     "HP": 4663,
@@ -10451,7 +10451,7 @@
   },
   {
     "Name": "Ninetales",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 11,
     "HP": 4906,
@@ -10461,7 +10461,7 @@
   },
   {
     "Name": "Ninetales",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 12,
     "HP": 5185,
@@ -10471,7 +10471,7 @@
   },
   {
     "Name": "Ninetales",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 13,
     "HP": 5506,
@@ -10481,7 +10481,7 @@
   },
   {
     "Name": "Ninetales",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 14,
     "HP": 5875,
@@ -10491,7 +10491,7 @@
   },
   {
     "Name": "Ninetales",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 15,
     "HP": 6299,
@@ -10501,7 +10501,7 @@
   },
   {
     "Name": "Aegislash",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 1,
     "HP": 3000,
@@ -10511,7 +10511,7 @@
   },
   {
     "Name": "Aegislash",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 2,
     "HP": 3062,
@@ -10521,7 +10521,7 @@
   },
   {
     "Name": "Aegislash",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 3,
     "HP": 3136,
@@ -10531,7 +10531,7 @@
   },
   {
     "Name": "Aegislash",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 4,
     "HP": 3225,
@@ -10541,7 +10541,7 @@
   },
   {
     "Name": "Aegislash",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 5,
     "HP": 3547,
@@ -10551,7 +10551,7 @@
   },
   {
     "Name": "Aegislash",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 6,
     "HP": 3675,
@@ -10561,7 +10561,7 @@
   },
   {
     "Name": "Aegislash",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 7,
     "HP": 4259,
@@ -10571,7 +10571,7 @@
   },
   {
     "Name": "Aegislash",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 8,
     "HP": 4444,
@@ -10581,7 +10581,7 @@
   },
   {
     "Name": "Aegislash",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 9,
     "HP": 4665,
@@ -10591,7 +10591,7 @@
   },
   {
     "Name": "Aegislash",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 10,
     "HP": 4931,
@@ -10601,7 +10601,7 @@
   },
   {
     "Name": "Aegislash",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 11,
     "HP": 5250,
@@ -10611,7 +10611,7 @@
   },
   {
     "Name": "Aegislash",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 12,
     "HP": 5632,
@@ -10621,7 +10621,7 @@
   },
   {
     "Name": "Aegislash",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 13,
     "HP": 6091,
@@ -10631,7 +10631,7 @@
   },
   {
     "Name": "Aegislash",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 14,
     "HP": 6641,
@@ -10641,7 +10641,7 @@
   },
   {
     "Name": "Aegislash",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 15,
     "HP": 7302,
@@ -10651,7 +10651,7 @@
   },
   {
     "Name": "Absol",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 1,
     "HP": 3000,
@@ -10661,7 +10661,7 @@
   },
   {
     "Name": "Absol",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 2,
     "HP": 3114,
@@ -10671,7 +10671,7 @@
   },
   {
     "Name": "Absol",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 3,
     "HP": 3239,
@@ -10681,7 +10681,7 @@
   },
   {
     "Name": "Absol",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 4,
     "HP": 3377,
@@ -10691,7 +10691,7 @@
   },
   {
     "Name": "Absol",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 5,
     "HP": 3528,
@@ -10701,7 +10701,7 @@
   },
   {
     "Name": "Absol",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 6,
     "HP": 3695,
@@ -10711,7 +10711,7 @@
   },
   {
     "Name": "Absol",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 7,
     "HP": 3878,
@@ -10721,7 +10721,7 @@
   },
   {
     "Name": "Absol",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 8,
     "HP": 4080,
@@ -10731,7 +10731,7 @@
   },
   {
     "Name": "Absol",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 9,
     "HP": 4303,
@@ -10741,7 +10741,7 @@
   },
   {
     "Name": "Absol",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 10,
     "HP": 4549,
@@ -10751,7 +10751,7 @@
   },
   {
     "Name": "Absol",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 11,
     "HP": 4819,
@@ -10761,7 +10761,7 @@
   },
   {
     "Name": "Absol",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 12,
     "HP": 5116,
@@ -10771,7 +10771,7 @@
   },
   {
     "Name": "Absol",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 13,
     "HP": 5443,
@@ -10781,7 +10781,7 @@
   },
   {
     "Name": "Absol",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 14,
     "HP": 5803,
@@ -10791,7 +10791,7 @@
   },
   {
     "Name": "Absol",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "Speedster",
     "Level": 15,
     "HP": 6200,
@@ -10801,7 +10801,7 @@
   },
   {
     "Name": "Raichu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 1,
     "HP": 3400,
@@ -10811,7 +10811,7 @@
   },
   {
     "Name": "Raichu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 2,
     "HP": 3500,
@@ -10821,7 +10821,7 @@
   },
   {
     "Name": "Raichu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 3,
     "HP": 3610,
@@ -10831,7 +10831,7 @@
   },
   {
     "Name": "Raichu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 4,
     "HP": 3731,
@@ -10841,7 +10841,7 @@
   },
   {
     "Name": "Raichu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 5,
     "HP": 3863,
@@ -10851,7 +10851,7 @@
   },
   {
     "Name": "Raichu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 6,
     "HP": 4009,
@@ -10861,7 +10861,7 @@
   },
   {
     "Name": "Raichu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 7,
     "HP": 4169,
@@ -10871,7 +10871,7 @@
   },
   {
     "Name": "Raichu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 8,
     "HP": 4346,
@@ -10881,7 +10881,7 @@
   },
   {
     "Name": "Raichu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 9,
     "HP": 4541,
@@ -10891,7 +10891,7 @@
   },
   {
     "Name": "Raichu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 10,
     "HP": 4756,
@@ -10901,7 +10901,7 @@
   },
   {
     "Name": "Raichu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 11,
     "HP": 4993,
@@ -10911,7 +10911,7 @@
   },
   {
     "Name": "Raichu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 12,
     "HP": 5253,
@@ -10921,7 +10921,7 @@
   },
   {
     "Name": "Raichu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 13,
     "HP": 5539,
@@ -10931,7 +10931,7 @@
   },
   {
     "Name": "Raichu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 14,
     "HP": 5854,
@@ -10941,7 +10941,7 @@
   },
   {
     "Name": "Raichu",
-    "Type": "Special Attacker",
+    "Type": "SpA",
     "Role": "Attacker",
     "Level": 15,
     "HP": 6200,
@@ -10951,7 +10951,7 @@
   },
   {
     "Name": "Scyther",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 1,
     "HP": 3100,
@@ -10961,7 +10961,7 @@
   },
   {
     "Name": "Scyther",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 2,
     "HP": 3174,
@@ -10971,7 +10971,7 @@
   },
   {
     "Name": "Scyther",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 3,
     "HP": 3259,
@@ -10981,7 +10981,7 @@
   },
   {
     "Name": "Scyther",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 4,
     "HP": 3357,
@@ -10991,7 +10991,7 @@
   },
   {
     "Name": "Scyther",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 5,
     "HP": 3805,
@@ -11001,7 +11001,7 @@
   },
   {
     "Name": "Scyther",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 6,
     "HP": 3935,
@@ -11011,7 +11011,7 @@
   },
   {
     "Name": "Scyther",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 7,
     "HP": 4084,
@@ -11021,7 +11021,7 @@
   },
   {
     "Name": "Scyther",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 8,
     "HP": 4256,
@@ -11031,7 +11031,7 @@
   },
   {
     "Name": "Scyther",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 9,
     "HP": 4454,
@@ -11041,7 +11041,7 @@
   },
   {
     "Name": "Scyther",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 10,
     "HP": 4682,
@@ -11051,7 +11051,7 @@
   },
   {
     "Name": "Scyther",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 11,
     "HP": 4944,
@@ -11061,7 +11061,7 @@
   },
   {
     "Name": "Scyther",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 12,
     "HP": 5246,
@@ -11071,7 +11071,7 @@
   },
   {
     "Name": "Scyther",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 13,
     "HP": 5593,
@@ -11081,7 +11081,7 @@
   },
   {
     "Name": "Scyther",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 14,
     "HP": 5992,
@@ -11091,7 +11091,7 @@
   },
   {
     "Name": "Scyther",
-    "Type": "Physical Attacker",
+    "Type": "PA",
     "Role": "All-Rounder",
     "Level": 15,
     "HP": 6450,
