@@ -172,7 +172,7 @@
             /* Establish new stacking context */
         }
 
-       
+
 
         .pokemon-card {
             position: relative;
@@ -388,9 +388,21 @@
 
                     Object.keys(roleGroups).forEach(role => {
                         roleGroups[role].sort((a, b) => {
-                            const statA = useDefRate ? a['def-rate'] : a['spdef-rate'];
-                            const statB = useDefRate ? b['def-rate'] : b['spdef-rate'];
-                            return statB - statA;
+                            // 1. Ưu tiên sắp xếp theo rate (def-rate hoặc spdef-rate) giảm dần
+                            const rateA = useDefRate ? a['def-rate'] : a['spdef-rate'];
+                            const rateB = useDefRate ? b['def-rate'] : b['spdef-rate'];
+
+                            if (rateB !== rateA) {
+                                return rateB - rateA; // Sắp xếp giảm dần theo rate
+                            }
+
+                            // 2. Nếu rate bằng nhau thì sắp xếp theo DEF giảm dần
+                            if (b.DEF !== a.DEF) {
+                                return b.DEF - a.DEF;
+                            }
+
+                            // 3. Nếu DEF cũng bằng nhau thì sắp xếp theo SP.DEF giảm dần
+                            return b['SP.DEF'] - a['SP.DEF'];
                         });
                     });
 
