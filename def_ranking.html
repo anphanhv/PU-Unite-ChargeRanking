@@ -288,8 +288,15 @@
                             roleGroup.appendChild(roleLabel);
 
                             // SORT POKEMON BY NAME 
-                             rolePokemons.sort((a, b) => a.Name.localeCompare(b.Name));
-                            
+                            rolePokemons.sort((a, b) => {
+                                // Sort chính bằng ranking-rate giảm dần
+                                if (b['ranking-rate'] !== a['ranking-rate']) {
+                                    return b['ranking-rate'] - a['ranking-rate'];
+                                }
+                                // Nếu ranking-rate bằng nhau thì sort bằng tên tăng dần
+                                return a.Name.localeCompare(b.Name);
+                            });
+
                             // Add pokemon cards
                             rolePokemons.forEach(pokemon => {
                                 const card = createPokemonCard(pokemon);
@@ -326,7 +333,9 @@
                     tooltip.innerHTML = `
                         HP: ${pokemon.HP}<br>
                         DEF: ${pokemon.DEF}<br>
-                        SP.DEF: ${pokemon['SP.DEF']}
+                        SP.DEF: ${pokemon['SP.DEF']}<br>
+                        RATE:${pokemon['ranking-rate']
+                        }
                     `;
                     
                     card.appendChild(img);
