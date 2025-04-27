@@ -229,9 +229,9 @@
                     });
                     // Group by ranking-rate tier
                     const tierGroups = {
-                        high: filteredPokemon.filter(p => p['ranking-rate'] >= 5),
-                        mid: filteredPokemon.filter(p => p['ranking-rate'] >= 3 && p['ranking-rate'] <= 4),
-                        low: filteredPokemon.filter(p => p['ranking-rate'] <= 2)
+                        high: filteredPokemon.filter(p => p['ranking-rate'] >= 9),
+                        mid: filteredPokemon.filter(p => p['ranking-rate'] >= 6 && p['ranking-rate'] <= 8),
+                        low: filteredPokemon.filter(p => p['ranking-rate'] <= 5)
                     };
                     
                     // Clear previous tier list
@@ -250,13 +250,13 @@
                         
                         switch(tier) {
                             case 'high':
-                                tierHeader.textContent = 'High Tier (Ranking 5+)';
+                                tierHeader.textContent = 'High Tier';
                                 break;
                             case 'mid':
-                                tierHeader.textContent = 'Mid Tier (Ranking 3-4)';
+                                tierHeader.textContent = 'Mid Tier';
                                 break;
                             case 'low':
-                                tierHeader.textContent = 'Low Tier (Ranking 1-2)';
+                                tierHeader.textContent = 'Low Tier';
                                 break;
                         }
                         
