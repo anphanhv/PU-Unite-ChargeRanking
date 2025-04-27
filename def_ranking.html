@@ -1,150 +1,154 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pokemon Unite Tier List</title>
+    <title>Pokemon Unite Defense Tier List</title>
     <style>
         :root {
-            --high-tier: #ff7f7f;
-            --mid-tier: #e8a15a;
-            --low-tier: #efafacef;
-            --bg-gradient-high: linear-gradient(135deg, #ff0000, #ff7f7f);
-            --bg-gradient-mid: linear-gradient(135deg, #ff7f00, #ffbf7f);
-            --bg-gradient-low: linear-gradient(135deg, #efafacef, #efafacef);
+            --high-tier: #ff0e0e;
+            --mid-tier: #eeaf70;
+            --low-tier: #f2a984;
+            --bg-gradient-high: linear-gradient(135deg, #ff0000a7, #ff7f7fa4);
+            --bg-gradient-mid: linear-gradient(135deg, #ff8000b9, #ffbf7f33);
+            --bg-gradient-low: linear-gradient(135deg, #ffff00a6, #ffff7f52);
         }
-        
+
         body {
             font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 20px;
             background-color: #f5f5f5;
         }
-        
+
         .container {
             max-width: 1200px;
             margin: 0 auto;
         }
-        
+
         h1 {
             text-align: center;
             color: #333;
             margin-bottom: 30px;
         }
-        
+
+        .controls {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 30px;
+            padding: 15px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
         .slider-container {
-            margin: 20px auto;
-            text-align: center;
-            max-width: 500px;
+            flex: 1;
+            min-width: 250px;
+            max-width: 400px;
         }
-        
-        .level-slider {
-            width: 100%;
-            margin: 10px 0;
+
+        .switch-container {
+            display: flex;
+            align-items: center;
+            gap: 10px;
         }
-        
-        .level-display {
-            font-size: 1.2em;
-            font-weight: bold;
+
+        .switch {
+            position: relative;
+            display: inline-block;
+            width: 60px;
+            height: 34px;
         }
-        
+
+        .switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #ccc;
+            transition: .4s;
+            border-radius: 34px;
+        }
+
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 26px;
+            width: 26px;
+            left: 4px;
+            bottom: 4px;
+            background-color: white;
+            transition: .4s;
+            border-radius: 50%;
+        }
+
+        input:checked+.slider {
+            background-color: #2196F3;
+        }
+
+        input:checked+.slider:before {
+            transform: translateX(26px);
+        }
+
         .tier-list {
             display: flex;
             flex-direction: column;
-            gap: 20px;
-            margin-top: 30px;
+            gap: 15px;
         }
-        
+
         .tier {
             border-radius: 8px;
             overflow: hidden;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
         }
-        
+
         .tier-header {
             padding: 10px 15px;
             color: white;
             font-weight: bold;
-            text-align: center;
-            text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
         }
-        
-        .high-tier .tier-header {
+
+        .tier-high .tier-header {
+            background-color: var(--high-tier);
             background: var(--bg-gradient-high);
         }
-        
-        .mid-tier .tier-header {
+
+        .tier-mid .tier-header {
+            background-color: var(--mid-tier);
             background: var(--bg-gradient-mid);
         }
-        
-        .low-tier .tier-header {
+
+        .tier-low .tier-header {
+            background-color: var(--low-tier);
             background: var(--bg-gradient-low);
         }
-        
-        .tier-content {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 15px;
-            padding: 15px;
-            background-color: white;
+
+        .tier-c .tier-header {
+            background-color: #b5e61d;
+            background: linear-gradient(135deg, #b4e61ddc, #b5e61d66);
         }
-        
-        .pokemon-card {
-            position: relative;
-            text-align: center;
-            width: 80px;
-            cursor: pointer;
-            transition: transform 0.2s;
+
+        .tier-d .tier-header {
+            background-color: #a8a8a8;
+            background: linear-gradient(135deg, #03030374, #a8a8a866);
         }
-        
-        .pokemon-card:hover {
-            transform: scale(1.1);
-            z-index: 10;
-        }
-        
-        .pokemon-image {
-            width: 60px;
-            height: 60px;
-            object-fit: contain;
-            margin: 0 auto;
-            display: block;
-        }
-        
-        .pokemon-name {
-            font-size: 0.8em;
-            margin-top: 5px;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
-        }
-        
-        .pokemon-role {
-            font-size: 0.7em;
-            color: #666;
-            margin-top: 2px;
-        }
-        
-        .pokemon-tooltip {
-            position: relative;
-            bottom: 100%;
-            left: 50%;
-            transform: translateX(-50%);
-            background: rgba(0,0,0,0.8);
-            color: white;
-            padding: 8px;
-            border-radius: 5px;
-            font-size: 0.8em;
-            white-space: nowrap;
-            opacity: 0;
-            pointer-events: none;
-            transition: opacity 0.2s;
-            z-index: auto;
-        }
-        
-        .pokemon-card:hover .pokemon-tooltip {
-            opacity: 1;
-        }
-        
+
         .role-group {
             display: flex;
             flex-wrap: wrap;
@@ -152,204 +156,324 @@
             align-items: center;
             padding: 5px;
             border-radius: 5px;
-            background-color: #f0f0f0;
+            background-color: #c73d1bcd;
+            background: linear-gradient(135deg, #e03f0976, #cac1916a);
         }
-        
-        .role-label {
-            font-size: 0.7em;
+
+        .tier-pokemons {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            padding: 15px;
+            background-color: white;
+            overflow: visible !important;
+            /* Allow tooltips to escape container */
+            position: relative;
+            /* Establish new stacking context */
+        }
+
+       
+
+        .pokemon-card {
+            position: relative;
+            width: 80px;
+            text-align: center;
+            transition: transform 0.2s;
+            z-index: 1;
+            display: inline-block;
+        }
+
+        .pokemon-card:hover {
+            transform: scale(1.1);
+            z-index: 100;
+        }
+
+        .pokemon-image {
+            width: 60px;
+            height: 60px;
+            object-fit: contain;
+            margin: 0 auto;
+            display: block;
+            cursor: pointer;
+        }
+
+        .pokemon-name {
+            font-size: 12px;
+            margin-top: 5px;
             font-weight: bold;
-            color: #555;
-            padding: 2px 5px;
-            background-color: #e0e0e0;
-            border-radius: 3px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
         }
-        
+
+        .pokemon-role {
+            font-size: 10px;
+            color: #666;
+            margin-top: 2px;
+        }
+
+        .pokemon-tooltip {
+            position: absolute;
+            /* Show above the card with some spacing */
+            left: 50%;
+            transform: translateX(-50%, -100%);
+            background-color: rgba(0, 0, 0, 0.9);
+            color: white;
+            padding: 8px;
+            border-radius: 5px;
+            font-size: 12px;
+            min-width: 120px;
+            z-index: 1000;
+            /* Higher than the hovered card */
+            display: none;
+            text-align: left;
+            pointer-events: none;
+            /* Prevent tooltip from interfering with hover */
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+            /* Optional: add shadow for better visibility */
+        }
+
+        .pokemon-card:hover .pokemon-tooltip {
+            display: block;
+        }
+
+        /* Prevent any parent from clipping */
+        .tier,
+        .tier-list,
+        .container {
+            overflow: visible !important;
+        }
+
+        .tier-label {
+            font-size: 18px;
+        }
+
+        .tier-range {
+            font-size: 14px;
+            opacity: 0.8;
+        }
+
+        input[type="range"] {
+            width: 100%;
+            height: 10px;
+            border-radius: 5px;
+            background: #ddd;
+            outline: none;
+        }
+
+        input[type="range"]::-webkit-slider-thumb {
+            appearance: none;
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background: #2196F3;
+            cursor: pointer;
+        }
+
+        .level-display {
+            text-align: center;
+            font-weight: bold;
+            margin-top: 5px;
+        }
+
         @media (max-width: 600px) {
+            .controls {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
             .pokemon-card {
                 width: 70px;
             }
-            
+
             .pokemon-image {
                 width: 50px;
                 height: 50px;
             }
-            
-            .tier-content {
-                gap: 10px;
-                padding: 10px;
-                justify-content: center;
-            }
         }
     </style>
 </head>
+
 <body>
     <div class="container">
-        <h1>Pokemon Unite Tankie Tier List</h1>
-        
-        <div class="slider-container">
-            <div class="level-display">Level: <span id="level-value">1</span></div>
-            <input type="range" min="1" max="15" value="1" class="level-slider" id="level-slider">
+        <h1>Pokemon Unite Defense Tier List</h1>
+
+        <div class="controls">
+            <div class="slider-container">
+                <label for="level-slider">Select Level:</label>
+                <input type="range" id="level-slider" min="1" max="15" value="1">
+                <div class="level-display">Level: <span id="level-value">1</span></div>
+            </div>
+
+            <div class="switch-container">
+                <span>DEF Rate</span>
+                <label class="switch">
+                    <input type="checkbox" id="stat-toggle">
+                    <span class="slider"></span>
+                </label>
+                <span>SP.DEF Rate</span>
+            </div>
         </div>
-        
+
         <div class="tier-list" id="tier-list">
-            <!-- Tier list will be generated by JavaScript -->
+            <!-- Tier lists will be generated here -->
         </div>
     </div>
 
     <script>
-        // Load JSON data
-        fetch('def_ranking.json')
-            .then(response => response.json())
-            .then(data => {
-                const tierListContainer = document.getElementById('tier-list');
-                const levelSlider = document.getElementById('level-slider');
-                const levelValue = document.getElementById('level-value');
-                
-                // Update displayed level when slider changes
-                levelSlider.addEventListener('input', function() {
-                    levelValue.textContent = this.value;
-                    updateTierList(data, parseInt(this.value));
-                });
-                
-                // Initial load
-                updateTierList(data, 1);
+        document.addEventListener('DOMContentLoaded', function () {
+            const levelSlider = document.getElementById('level-slider');
+            const levelValue = document.getElementById('level-value');
+            const statToggle = document.getElementById('stat-toggle');
+            const tierListContainer = document.getElementById('tier-list');
 
-                function updateTierList(pokemonData, selectedLevel) {
-                    // Filter pokemon by selected level
-                    const filteredPokemon = pokemonData.filter(pokemon => pokemon.Level === selectedLevel);
+            let pokemonData = [];
+            let currentLevel = 1;
+            let useDefRate = true;
 
-                    // Sort by ranking-rate (descending)
-                    filteredPokemon.sort((a, b) => {
-                        // Sort chính bằng ranking-rate giảm dần
-                        if (b['ranking-rate'] !== a['ranking-rate']) {
-                            return b['ranking-rate'] - a['ranking-rate'];
-                        }
-                        // Nếu ranking-rate bằng nhau thì sort bằng tên tăng dần
-                        return a.Name.localeCompare(b.Name);
-                    });
-                    // Group by ranking-rate tier
-                    const tierGroups = {
-                        high: filteredPokemon.filter(p => p['ranking-rate'] >= 9),
-                        mid: filteredPokemon.filter(p => p['ranking-rate'] >= 6 && p['ranking-rate'] <= 8),
-                        low: filteredPokemon.filter(p => p['ranking-rate'] <= 5)
-                    };
-                    
-                    // Clear previous tier list
-                    tierListContainer.innerHTML = '';
-                    
-                    // Create tier sections
-                    for (const [tier, pokemons] of Object.entries(tierGroups)) {
-                        if (pokemons.length === 0) continue;
-                        
-                        const tierSection = document.createElement('div');
-                        tierSection.className = `tier ${tier}-tier`;
-                        
-                        // Tier header
-                        const tierHeader = document.createElement('div');
-                        tierHeader.className = 'tier-header';
-                        
-                        switch(tier) {
-                            case 'high':
-                                tierHeader.textContent = 'High Tier';
-                                break;
-                            case 'mid':
-                                tierHeader.textContent = 'Mid Tier';
-                                break;
-                            case 'low':
-                                tierHeader.textContent = 'Low Tier';
-                                break;
-                        }
-                        
-                        tierSection.appendChild(tierHeader);
-                        
-                        // Tier content
-                        const tierContent = document.createElement('div');
-                        tierContent.className = 'tier-content';
-                        
-                        // Group pokemon by role within the tier
-                        const roleGroups = {};
-                        // Tạo mảng tạm chứa các role duy nhất và sắp xếp
-                        const sortedRoles = [...new Set(pokemons.map(p => p.Role))].sort();
-                        // Tạo roleGroups đã sắp xếp
-                        sortedRoles.forEach(role => {
-                            roleGroups[role] = pokemons.filter(p => p.Role === role)
-                                .sort((a, b) => a.Name.localeCompare(b.Name));
-                        });
-
-                        // Create role groups
-                        for (const [role, rolePokemons] of Object.entries(roleGroups)) {
-                            const roleGroup = document.createElement('div');
-                            roleGroup.className = 'role-group';
-
-                        // Add role label
-                            const roleLabel = document.createElement('div');
-                            roleLabel.className = 'role-label';
-                            roleLabel.textContent = role;
-                            roleGroup.appendChild(roleLabel);
-
-                            // SORT POKEMON BY NAME 
-                            rolePokemons.sort((a, b) => {
-                                // Sort chính bằng ranking-rate giảm dần
-                                if (b['ranking-rate'] !== a['ranking-rate']) {
-                                    return b['ranking-rate'] - a['ranking-rate'];
-                                }
-                                // Nếu ranking-rate bằng nhau thì sort bằng tên tăng dần
-                                return a.Name.localeCompare(b.Name);
-                            });
-
-                            // Add pokemon cards
-                            rolePokemons.forEach(pokemon => {
-                                const card = createPokemonCard(pokemon);
-                                roleGroup.appendChild(card);
-                            });
-                            
-                            tierContent.appendChild(roleGroup);
-                        }
-                        
-                        tierSection.appendChild(tierContent);
-                        tierListContainer.appendChild(tierSection);
-                    }
-                }
-                
-                function createPokemonCard(pokemon) {
-                    const card = document.createElement('div');
-                    card.className = 'pokemon-card';
-                    
-                    const img = document.createElement('img');
-                    img.className = 'pokemon-image';
-                    img.src = `images/${pokemon.Name}.png`;
-                    img.alt = pokemon.Name;
-                    
-                    const name = document.createElement('div');
-                    name.className = 'pokemon-name';
-                    name.textContent = pokemon.Name;
-                    
-                    const role = document.createElement('div');
-                    role.className = 'pokemon-role';
-                    role.textContent = pokemon.Type;
-                    
-                    const tooltip = document.createElement('div');
-                    tooltip.className = 'pokemon-tooltip';
-                    tooltip.innerHTML = `
-                        HP: ${pokemon.HP}<br>
-                        DEF: ${pokemon.DEF}<br>
-                        SP.DEF: ${pokemon['SP.DEF']}<br>
-                        RATE:${pokemon['ranking-rate']
-                        }
-                    `;
-                    
-                    card.appendChild(img);
-                    card.appendChild(name);
-                    card.appendChild(role);
-                    card.appendChild(tooltip);
-                    
-                    return card;
-                }
-            })
-            .catch(error => {
-                console.error('Error loading JSON data:', error);
-                document.getElementById('tier-list').innerHTML = '<p>Error loading tier list data. Please try again later.</p>';
+            // Update level display
+            levelSlider.addEventListener('input', function () {
+                currentLevel = parseInt(this.value);
+                levelValue.textContent = currentLevel;
+                updateTierList();
             });
+
+            // Toggle between DEF and SP.DEF
+            statToggle.addEventListener('change', function () {
+                useDefRate = !this.checked;
+                updateTierList();
+            });
+
+            // Fetch JSON data
+            fetch('def_ranking.json')
+                .then(response => response.json())
+                .then(data => {
+                    pokemonData = data;
+                    updateTierList();
+                })
+                .catch(error => console.error('Error loading JSON:', error));
+
+            function updateTierList() {
+                // Filter by current level
+                const filteredPokemon = pokemonData.filter(p => p.Level === currentLevel);
+
+                // Categorize into tiers
+                const highTier = [];
+                const midTier = [];
+                const cTier = [];
+                const dTier = []; // Changed from lowTier to dTier for consistency
+
+                filteredPokemon.forEach(pokemon => {
+                    const stat = useDefRate ? pokemon['def-rate'] : pokemon['spdef-rate'];
+                    if (stat >= 9) {
+                        highTier.push(pokemon);
+                    } else if (stat >= 6) {
+                        midTier.push(pokemon);
+                    } else if (stat >= 4) {
+                        cTier.push(pokemon);
+                    } else {
+                        dTier.push(pokemon); // Changed from lowTier to dTier
+                    }
+                });
+
+                // Function to group by role and sort within each role
+                const processTier = (tier) => {
+                    const roleGroups = {};
+                    tier.forEach(pokemon => {
+                        if (!roleGroups[pokemon.Role]) {
+                            roleGroups[pokemon.Role] = [];
+                        }
+                        roleGroups[pokemon.Role].push(pokemon);
+                    });
+
+                    Object.keys(roleGroups).forEach(role => {
+                        roleGroups[role].sort((a, b) => {
+                            const statA = useDefRate ? a['def-rate'] : a['spdef-rate'];
+                            const statB = useDefRate ? b['def-rate'] : b['spdef-rate'];
+                            return statB - statA;
+                        });
+                    });
+
+                    return roleGroups;
+                };
+
+                // Process each tier
+                const highTierGroups = processTier(highTier);
+                const midTierGroups = processTier(midTier);
+                const cTierGroups = processTier(cTier);
+                const dTierGroups = processTier(dTier); // Changed from lowTierGroups to dTierGroups
+
+                // Generate HTML
+                let html = '';
+
+                if (Object.keys(highTierGroups).length > 0) {
+                    html += createTierSection('high', 'S-Tier (9-10)', highTierGroups);
+                }
+
+                if (Object.keys(midTierGroups).length > 0) {
+                    html += createTierSection('mid', 'A-Tier (7-8)', midTierGroups);
+                }
+
+                if (Object.keys(cTierGroups).length > 0) {
+                    html += createTierSection('c', 'B-Tier (5-6)', cTierGroups);
+                }
+
+                if (Object.keys(dTierGroups).length > 0) { // Changed from lowTierGroups to dTierGroups
+                    html += createTierSection('d', 'C-Tier (1-4)', dTierGroups);
+                }
+
+                tierListContainer.innerHTML = html;
+            }
+
+
+
+
+
+            function createTierSection(tierClass, tierName, roleGroups) {
+                const statName = useDefRate ? 'DEF Rate' : 'SP.DEF Rate';
+
+                let html = `<div class="tier tier-${tierClass}">
+            <div class="tier-header">
+                <span class="tier-label">${tierName}</span>
+                <span class="tier-range">${statName}</span>
+            </div>
+            <div class="tier-pokemons">`;
+
+                Object.keys(roleGroups).forEach(role => {
+                    html += `<div class="role-group">`;
+                    html += `<div class="role-label">${role}</div>`;
+                    html += `<div class="role-pokemons">`;
+
+                    roleGroups[role].forEach(pokemon => {
+                        const statValue = useDefRate ? pokemon['def-rate'] : pokemon['spdef-rate'];
+
+                        html += `
+                <div class="pokemon-card">
+                    <img src="images/${pokemon.Name}.png" alt="${pokemon.Name}" class="pokemon-image" 
+                         onerror="this.src='images/unknown.png'; this.onerror=null;">
+                    <div class="pokemon-tooltip">
+                        <div><strong>${pokemon.Name}</strong></div>
+                        <div>HP: ${pokemon.HP}</div>
+                        <div>DEF: ${pokemon.DEF}</div>
+                        <div>SP.DEF: ${pokemon['SP.DEF']}</div>
+                        <div>${statName}: ${statValue}</div>
+                    </div>
+                </div>
+            `;
+                    });
+
+                    html += `</div></div>`;
+                });
+
+                html += `
+            </div>
+        </div>
+    `;
+
+                return html;
+            }
+        });
     </script>
 </body>
+
 </html>
