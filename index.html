@@ -240,13 +240,21 @@
         </label>
         <span class="slider-label" id="timeFormatLabel">Sec</span>
     </div>
-    
+  
     <div class="switch-container">
         <label class="switch">
             <input type="checkbox" id="energyAmpToggle">
             <span class="slider"></span>
         </label>
-        <span class="slider-label" id="energyAmpLabel">Energy Amp & Navy emblem: OFF</span>
+        <span class="slider-label" id="energyAmpLabel">Energy Amp: OFF</span>
+    </div>
+	
+    <div class="switch-container">
+        <label class="switch">
+            <input type="checkbox" id="navyToggle">
+            <span class="slider"></span>
+        </label>
+        <span class="slider-label" id="navyLabel">Navy emblem: OFF</span>
     </div>
     
     <div class="switch-container">
@@ -269,7 +277,7 @@
         <thead>
             <tr>
                 <th>Rank</th>
-                <th id="farmColumnHeader" style="display:none;">Farm Efficiency</th>
+                <th id="farmColumnHeader" style="display:none;">Creep need</th>
                 <th>Pokémon</th>
             </tr>
         </thead>
@@ -292,7 +300,8 @@
                 "Pikachu.png",
                 "Snorlax.png",
                 "Tinkaton.png",
-                "Wigglytuff.png"
+                "Wigglytuff.png",
+				"Vaporeon.png"
             ],
             "90000": [
                 "Absol.png",
@@ -308,7 +317,8 @@
                 "Mr. Mime.png",
                 "Sableye.png",
                 "Talonflame.png",
-                "Zoroark.png"
+                "Zoroark.png",
+				"Alcremie.png"
             ],
             "100000": [
                 "Armarouge.png",
@@ -346,7 +356,15 @@
                 "Venusaur.png",
                 "Zacian.png",
                 "Zeraora.png",
-                "Raichu.png"
+                "Raichu.png",
+				"Dhelmise.png",
+				"Empoleon.png",
+				"Latias.png",
+				"Latios.png",
+				"MegaCharizardX.png",
+				"MegaCharizardY.png",
+				"MegaLucario.png",
+				"MegaGyarados.png"
             ],
             "110000": ["Cramorant.png", "Mew.png"],
             "120000": [
@@ -365,6 +383,7 @@
         // State variables
         let showAsMinutes = false;
         let energyAmpEnabled = false;
+		let navyEnabled = false;
         let farmingEnabled = false;
         let farmTime = 60;
 
@@ -391,13 +410,13 @@
 
         // Function to calculate displayed rank value in seconds
         function calculateDisplayedRank(energy) {
-            const ampMultiplier = energyAmpEnabled ? 1.1 : 1;
+            const ampMultiplier = (energyAmpEnabled ? 0.06 : 0) +  (navyEnabled ? 0.04 : 0) + 1;
             return Math.round(energy / (900 * ampMultiplier));
         }
 
         // Function to calculate farm efficiency
         function calculateFarmEfficiency(energy) {
-            const ampMultiplier = energyAmpEnabled ? 1.1 : 1;
+            const ampMultiplier = (energyAmpEnabled ? 0.06 : 0) +  (navyEnabled ? 0.04 : 0) + 1;
             const numerator = energy - (farmTime * 900 * ampMultiplier);
             const denominator = 5000 * ampMultiplier;
             
@@ -473,7 +492,13 @@
         // Toggle Energy Amp
         document.getElementById('energyAmpToggle').addEventListener('change', function() {
             energyAmpEnabled = this.checked;
-            document.getElementById('energyAmpLabel').textContent = `Energy Amp & Navy Emblem: ${energyAmpEnabled ? 'ON' : 'OFF'}`;
+            document.getElementById('energyAmpLabel').textContent = `Energy Amp: ${energyAmpEnabled ? 'ON' : 'OFF'}`;
+            createRankingTable();
+        });
+		// Toggle Navy Amp
+        document.getElementById('navyToggle').addEventListener('change', function() {
+            navyEnabled = this.checked;
+            document.getElementById('navyLabel').textContent = `Navy Emblem: ${navyEnabled ? 'ON' : 'OFF'}`;
             createRankingTable();
         });
 
@@ -497,6 +522,7 @@
         window.onload = function() {
             document.getElementById('timeFormatToggle').checked = showAsMinutes;
             document.getElementById('energyAmpToggle').checked = energyAmpEnabled;
+			document.getElementById('navyToggle').checked = navyEnabled;
             document.getElementById('farmingToggle').checked = farmingEnabled;
             createRankingTable();
         };
