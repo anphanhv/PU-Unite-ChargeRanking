@@ -246,7 +246,7 @@
             <input type="checkbox" id="energyAmpToggle">
             <span class="slider"></span>
         </label>
-        <span class="slider-label" id="energyAmpLabel">Energy Amp: OFF</span>
+        <span class="slider-label" id="energyAmpLabel">Energy Amp & Navy emblem: OFF</span>
     </div>
     
     <div class="switch-container">
@@ -391,13 +391,13 @@
 
         // Function to calculate displayed rank value in seconds
         function calculateDisplayedRank(energy) {
-            const ampMultiplier = energyAmpEnabled ? 1.06 : 1;
+            const ampMultiplier = energyAmpEnabled ? 1.1 : 1;
             return Math.round(energy / (900 * ampMultiplier));
         }
 
         // Function to calculate farm efficiency
         function calculateFarmEfficiency(energy) {
-            const ampMultiplier = energyAmpEnabled ? 1.06 : 1;
+            const ampMultiplier = energyAmpEnabled ? 1.1 : 1;
             const numerator = energy - (farmTime * 900 * ampMultiplier);
             const denominator = 5000 * ampMultiplier;
             
@@ -503,3 +503,4 @@
     </script>
 </body>
 </html>
+
